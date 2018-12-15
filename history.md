@@ -561,7 +561,7 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
 
 ----
 
-## 熟練度稼ぎの変遷
+## 熟練度稼ぎの変遷(WIP)
 
 <!--
 ### 260戦 - 2001/03/30 おてう 21:32:20
