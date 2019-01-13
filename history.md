@@ -37,7 +37,7 @@
 
 - 廉価版の発売: フリーズよさらば
 - 小さなメダルカット戦略: メダル忘れなんて怖くない！
-- くねお氏の活動: 八面六臂の大活躍
+- [くねお](https://twitter.com/kuneo_x)氏の活動: 八面六臂の大活躍
   - 中断ありRTAの提案
   - ニコ生PSDQ駅伝主催
   - 詳細なチャートの公開
@@ -51,7 +51,7 @@
 『[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88VII_%E3%82%A8%E3%83%87%E3%83%B3%E3%81%AE%E6%88%A6%E5%A3%AB%E3%81%9F%E3%81%A1)』が発売される。フリーズの多さで悪名高い、いわゆる初期版である。
 
 ### 2000/10/20
-おてう氏が[さざなみ仁王立ち](https://web.archive.org/web/20110218010202/http://oteu.net:80/diary/di00-10-1.html)を発見する。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[さざなみ仁王立ち](https://web.archive.org/web/20110218010202/http://oteu.net:80/diary/di00-10-1.html)を発見する。  
 マホカンタ状態のキャラが仁王立ちすると、敵の呪文を全て反射してくれる仕様。これを利用してベギラゴンやイオナズンを全反射すると爽快。  
 <!-- ただし、生存しているキャラの1/3以上にマホカンタが掛かっている場合、(賢さ2のモンスターは)全体呪文を使用しない。   -->
 現在はメディルの使い・ゼッペル・オルゴ1・オルゴ2戦で使われている。初期には闇の魔人戦でも使われていた。
@@ -61,7 +61,7 @@
 
 ## 2001年
 ### 2001/01/10
-おてう氏が[プロビナ飛ばし](https://web.archive.org/web/20110218010217/http://oteu.net:80/diary/di01-01-1.html)を発見する。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[プロビナ飛ばし](https://web.archive.org/web/20110218010217/http://oteu.net:80/diary/di01-01-1.html)を発見する。  
 過去プロビナの橋でラズエルに無理やり話しかけると、ボス戦を含むストーリーの一部を飛ばせるバグ。約5m30sの短縮になる。  
 ストーリーを破壊する技ということで日本では許可されていないが、海外ルールでは許可されている。
 
@@ -70,11 +70,11 @@
 - [[DQ7]プロビナ飛ばし[バグ技] - ニコニコ動画](https://www.nicovideo.jp/watch/sm25804202)
 
 ### 2001/03/30
-おてう氏が[**21:32:20**](http://homepage2.nifty.com/oteu/diary/dq7rta/dq7rta0.html)の記録を出す。RTAという概念が登場したのが2000年頃であり、間違いなく**初めて行われたDQ7のRTA**である。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[**21:32:20**](http://homepage2.nifty.com/oteu/diary/dq7rta/dq7rta0.html)の記録を出す。RTAという概念が登場したのが2000年頃であり、間違いなく**初めて行われたDQ7のRTA**である。  
 メイン火力は主人公の剣の舞とマリベルの怒涛の羊。ラスボス戦でアストロン・ベホマラー・英雄の杖を使うため、メダルを110枚、移民を35人集めている。また、メモリーカードを使用して移民を交換しプレミアムバザーを作っている。
 
 ### 2001/07/31
-おてう氏が[**ゲーム内時間TAでラスボス撃破13:30(The End13:50)**](https://oteu.net/diary/7ta.html)の記録を出す。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[**ゲーム内時間TAでラスボス撃破13:30(The End13:50)**](https://oteu.net/diary/7ta.html)の記録を出す。  
 メダルも移民も回収しない代わりに、過去フォロッドで通常からくり兵の鉄の斧ドロップ(1/128)リセゲーをしたり、特技習得のためラッキーパネルでモンスターの心リセゲーを行っている。  
 RTAの戦略が進歩した現在は、これより速い記録がRTAで出るようになっている。
 
@@ -83,7 +83,7 @@ RTAの戦略が進歩した現在は、これより速い記録がRTAで出る�
 
 ## 2002年
 ### 2002/09/28
-おてう氏が[**四精霊撃破RTA21:59:00**](http://homepage2.nifty.com/oteu/diary/dq7rta/7rta_rep0.html)の記録を出す。初めて行われた四精霊撃破RTAである。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[**四精霊撃破RTA21:59:00**](http://homepage2.nifty.com/oteu/diary/dq7rta/7rta_rep0.html)の記録を出す。初めて行われた四精霊撃破RTAである。  
 通常のRTAとしても**17:48:10**の記録を出し最速記録を更新。前回の戦略から熟練度稼ぎを減らし、移民交換をカットしている。  
 神様19ターン以内撃破のため、350戦でメルビンにプラチナキング職をマスターさせて完全耐性持ちの仁王立ち役を作りつつ、サムシンを召喚できるLv35以上に主人公のLvを上げている。  
 このプレイは、第三期ULTIMAGARDEN CUPにおいて投票第二位かつ熟練賞を取っている。
@@ -98,10 +98,10 @@ PS one Books版が発売される。アルティメットヒッツ版と併せ�
 初期版よりも過去砂漠の国で遅れるものの、現在はフリーズ回避のためRTAでは廉価版を用いるのが一般的となっている。
 
 ### 2005/09/16
-おてう氏が[過去プロビナの女神の像回収後の自殺ルーラ](https://web.archive.org/web/20110218010453/http://oteu.net:80/diary/di05-09.html)を発見する。
+[おてう](https://twitter.com/oteu_bakusou)氏が[過去プロビナの女神の像回収後の自殺ルーラ](https://web.archive.org/web/20110218010453/http://oteu.net:80/diary/di05-09.html)を発見する。
 
 ### 2005/09/25
-おてう氏が[**16:52:00**](http://www.rta.jp/dq1to8/dq7.html)の記録を出し最速記録を更新。[ドラクエシリーズ8作連続タイムアタック](http://www.rta.jp/dq1to8/)の一環として行われた。  
+[おてう](https://twitter.com/oteu_bakusou)氏が[**16:52:00**](http://www.rta.jp/dq1to8/dq7.html)の記録を出し最速記録を更新。[ドラクエシリーズ8作連続タイムアタック](http://www.rta.jp/dq1to8/)の一環として行われた。  
 PS2とPS one Books版が使用されている。前回の戦略からはリートルードランキングをカット。過去プロビナ自殺ルーラを採用。
 
 ## 2006年 - 2人目のプレイヤー
@@ -109,30 +109,30 @@ PS2とPS one Books版が使用されている。前回の戦略からはリー�
 アルティメットヒッツ版が発売される。
 
 ### 2006/11/20
-シン(hiro)氏が[**16:43:??**](http://sports.geocities.jp/yamachan1631/dq7top.html)の記録を出し最速記録を更新。  
-最初のRTAから5年目にしてやっと2人目のプレイヤーの登場である。戦略はおてう氏から変わらず。
+[シン(hiro)](https://twitter.com/hiro25255)氏が[**16:43:??**](http://sports.geocities.jp/yamachan1631/dq7top.html)の記録を出し最速記録を更新。  
+最初のRTAから5年目にしてやっと2人目のプレイヤーの登場である。戦略は[おてう](https://twitter.com/oteu_bakusou)氏から変わらず。
 
 ### 2006/12/14
-シン(hiro)氏が[**16:04:??**](http://sports.geocities.jp/yamachan1631/new-dq7top.html)の記録を出し最速記録を更新。
+[シン(hiro)](https://twitter.com/hiro25255)氏が[**16:04:??**](http://sports.geocities.jp/yamachan1631/new-dq7top.html)の記録を出し最速記録を更新。
 
 ### 2006/12/23
-シン(hiro)氏が[**15:54:??**](http://sports.geocities.jp/yamachan1631/last-dq7top.html)の記録を出し最速記録を更新。
+[シン(hiro)](https://twitter.com/hiro25255)氏が[**15:54:??**](http://sports.geocities.jp/yamachan1631/last-dq7top.html)の記録を出し最速記録を更新。
 
 ## 2008年 - 新戦略の萌芽
 ### 2008/08/06
-あう氏が[17:24:35](https://blog.goo.ne.jp/aukichi/e/3fdb76f327d75161c2dd616c97558df5)の記録を出す。7年目にしてようやっと3人目以下略。  
+[あう](https://twitter.com/aukichi)氏が[17:24:35](https://blog.goo.ne.jp/aukichi/e/3fdb76f327d75161c2dd616c97558df5)の記録を出す。7年目にしてようやっと3人目以下略。  
 メダル95枚・移民35人。メダルを110枚集めない(=プラチナキング職を使わない)戦略としては初の記録である。  
-おてう氏がプラチナキング職で習得させていたアストロンは僧侶＆船乗りの職歴技であるノアの方舟で代用し、ベホマラーはホイミスライム職マスターで習得させている。また、怒涛の羊を誰にも習得させていない。
+[おてう](https://twitter.com/oteu_bakusou)氏がプラチナキング職で習得させていたアストロンは僧侶＆船乗りの職歴技であるノアの方舟で代用し、ベホマラーはホイミスライム職マスターで習得させている。また、怒涛の羊を誰にも習得させていない。
 
-メダルを110枚集めない戦略に関しては、おてう氏が[2005/06/21付の日記](https://web.archive.org/web/20110218010443/http://oteu.net:80/diary/di05-06.html)で考察を行っていた。
+メダルを110枚集めない戦略に関しては、[おてう](https://twitter.com/oteu_bakusou)氏が[2005/06/21付の日記](https://web.archive.org/web/20110218010443/http://oteu.net:80/diary/di05-06.html)で考察を行っていた。
 
 ### 2008/12/07
-あう氏が[16:41:05](https://blog.goo.ne.jp/aukichi/e/19997bc561c7a8dcd4743b1730664e1d)の記録を出す。  
+[あう](https://twitter.com/aukichi)氏が[16:41:05](https://blog.goo.ne.jp/aukichi/e/19997bc561c7a8dcd4743b1730664e1d)の記録を出す。  
 前回の戦略と比較すると、最後までベホマラーを習得しないためラスボス戦が不安定になっている。
 
 ### 2008/12/22
-りお氏がPeerCast配信上で[32:23:11](http://listeners.reep.info/index.php?cmd=read&page=Peercast%20Record%2FDQ7)(※計測区間が少し短い)の記録を出す。  
-恐らく、初めて映像配信上で出された記録である。戦略はおてう氏と同じ。
+[りお](https://twitter.com/rio_ccc)氏がPeerCast配信上で[32:23:11](http://listeners.reep.info/index.php?cmd=read&page=Peercast%20Record%2FDQ7)(※計測区間が少し短い)の記録を出す。  
+恐らく、初めて映像配信上で出された記録である。戦略は[おてう](https://twitter.com/oteu_bakusou)氏と同じ。
 
 ## 2009年
 ### 2009/12/28
@@ -141,31 +141,31 @@ Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_4
 
 ## 2010年 - Age of くねお
 ### 2010/04/24
-くねお氏が[ネンガル戦後自殺ルーラ](http://kuneo.blog52.fc2.com/blog-entry-930.html)を発見。ネンガル戦後に全滅するとリファ族の神殿まで戻ることができ、歩き戻りより大幅な短縮になる。  
+[くねお](https://twitter.com/kuneo_x)氏が[ネンガル戦後自殺ルーラ](http://kuneo.blog52.fc2.com/blog-entry-930.html)を発見。ネンガル戦後に全滅するとリファ族の神殿まで戻ることができ、歩き戻りより大幅な短縮になる。  
 ネンガル直前の教会でセーブすると復活地点がそこになるためネンガル戦全滅対策のセーブができないというややリスキーな戦略である。
 
 ### 2010/05/03
-くねお氏が[地底ピラミッド自殺ルーラ](http://kuneo.blog52.fc2.com/blog-entry-945.html)を発見する。
+[くねお](https://twitter.com/kuneo_x)氏が[地底ピラミッド自殺ルーラ](http://kuneo.blog52.fc2.com/blog-entry-945.html)を発見する。
 
 ### 2010/05/29
-くねお氏が[**15:43:37**](http://kuneo.web.fc2.com/dq7/15_43_37.html)の記録を出し最速記録を更新。メダル90枚・移民35人。  
+[くねお](https://twitter.com/kuneo_x)氏が[**15:43:37**](http://kuneo.web.fc2.com/dq7/15_43_37.html)の記録を出し最速記録を更新。メダル90枚・移民35人。  
 熟練度稼ぎはダーマ解放後133+アイラ加入後65=188回。ガボにノアの方舟を習得させている。  
 ラスボス前のレベリングにラスダンの卵を使う「卵割り」の初出。従来のレベリング場は現代クレージュだったが、ラスダンに24個ある卵から1/6の確率で出現するメタルスライムS→メタルキングを狩る戦略。現在に至るまで主流である。
 
 ### 2010/05/30
-くねお氏が[DQ7RTA記録集](http://kuneo.web.fc2.com/dq7/rta_records.html)を公開。氏が”まとまった時間を取れなくてもRTAに近い形で競える”ために提唱した「中断ありRTA」の記録も扱われている。
+[くねお](https://twitter.com/kuneo_x)氏が[DQ7RTA記録集](http://kuneo.web.fc2.com/dq7/rta_records.html)を公開。氏が”まとまった時間を取れなくてもRTAに近い形で競える”ために提唱した「中断ありRTA」の記録も扱われている。
 
 <!--
 ### 2010/06/24
-たかす氏が洞窟魔人戦ルカナン返し戦術(1T目にマリベルがしっぺ返し)を公開。くねお氏のブログのコメント欄にて。
+[たかす](http://whatbees.cocolog-nifty.com/blog/)氏が洞窟魔人戦ルカナン返し戦術(1T目にマリベルがしっぺ返し)を公開。[くねお](https://twitter.com/kuneo_x)氏のブログのコメント欄にて。
 -->
 
 ### 2010/06/25
-たかす氏が[世界樹の葉増殖技](http://whatbees.cocolog-nifty.com/blog/2010/06/post-40d7.html)を公開。  
+[たかす](http://whatbees.cocolog-nifty.com/blog/)氏が[世界樹の葉増殖技](http://whatbees.cocolog-nifty.com/blog/2010/06/post-40d7.html)を公開。  
 水の精霊復活時、マリベルに手持ちの世界樹の葉をすべて持たせて離脱させることで、世界樹の根本で合法的にもう1枚回収する技である。
 
 ### 2010/07/22
-steel氏が[中断あり15:26:39](http://kuneo.web.fc2.com/dq7/steel_15_26_39.txt)の記録を出す。メダル0枚・移民0人。  
+[steel](https://twitter.com/steel_dqrta)氏が[中断あり15:26:39](http://kuneo.web.fc2.com/dq7/steel_15_26_39.txt)の記録を出す。メダル0枚・移民0人。  
 炎の巨人前の炎の山でレベリングを行うことで、過去エンゴウ後の船入手からルーラを使う戦略の初出か。稼ぎに時間を費やす代わり、移動時間短縮・戦力の強化・資金稼ぎの一石三鳥。
 - 移動時間短縮: 過去エンゴウ後船入手～過去フォロッドinでルーラが使える。
 - 戦力の強化: ルーラ習得稼ぎで+約900exp。従来移民の町Lv6で購入していた大金槌がなくてもデス・アミーゴ戦が安定する。また強敵イノゴン戦での主人公とマリベルのLvが1上がる。
@@ -193,47 +193,47 @@ steel氏が[中断あり15:26:39](http://kuneo.web.fc2.com/dq7/steel_15_26_39.tx
 -->
 
 ### 2010/07/24
-くねお氏がUstream配信上で[**14:53:12**](http://kuneo.blog52.fc2.com/blog-entry-1034.html)の記録を出し最速記録を更新。戦略の詳細は不明。
+[くねお](https://twitter.com/kuneo_x)氏がUstream配信上で[**14:53:12**](http://kuneo.blog52.fc2.com/blog-entry-1034.html)の記録を出し最速記録を更新。戦略の詳細は不明。
 
 ### 2010/07/31
-くねお氏が並走で[15:55:12](http://kuneo.blog52.fc2.com/blog-date-201008-22.html)の記録を出す。  
+[くねお](https://twitter.com/kuneo_x)氏が並走で[15:55:12](http://kuneo.blog52.fc2.com/blog-date-201008-22.html)の記録を出す。  
 108+41+65の214回稼ぎ戦略。真ん中の41戦でマリベルにリップス職の百列舐めを習得させている点が特徴。
 
 ### 2010/08/11
-steel氏がニコ生配信上で[**14:50:22**](http://kuneo.web.fc2.com/dq7/steel_14_50_22.txt)の記録を出し最速記録を更新。ラスボス戦でマリベルを採用する戦略。  
+[steel](https://twitter.com/steel_dqrta)氏がニコ生配信上で[**14:50:22**](http://kuneo.web.fc2.com/dq7/steel_14_50_22.txt)の記録を出し最速記録を更新。ラスボス戦でマリベルを採用する戦略。  
 ラスボス戦でマリベルを使う戦略が最速の座に座るのはこれが最後となり、剣の舞を覚えさせたアイラを連れて行く戦略が主流となってゆく。
 
 ### 2010/08/14
-くねお氏が[**14:50:18**](http://kuneo.blog52.fc2.com/blog-entry-1057.html)の記録を出し最速記録を更新。たった「3日」での更新と、たった「4秒」の更新。どちらもPS版DQ7RTA史上最短の記録である。
+[くねお](https://twitter.com/kuneo_x)氏が[**14:50:18**](http://kuneo.blog52.fc2.com/blog-entry-1057.html)の記録を出し最速記録を更新。たった「3日」での更新と、たった「4秒」の更新。どちらもPS版DQ7RTA史上最短の記録である。
 
-ここからくねお氏は14時間切りを目指して改めて戦略を練ることになる。
+ここから[くねお](https://twitter.com/kuneo_x)氏は14時間切りを目指して改めて戦略を練ることになる。
 
 ### 2010/08/28
-ガーネット氏が[18:49:43](http://island.geocities.jp/garnet_thiru/dq7/dq7rta_184943.html)の記録を出す。妖精の剣カットの走りか。
+[ガーネット](https://ameblo.jp/purin-rta/)氏が[18:49:43](http://island.geocities.jp/garnet_thiru/dq7/dq7rta_184943.html)の記録を出す。妖精の剣カットの走りか。
 
 ### 2010/09/15
-くねお氏が[**14:31:22**](http://kuneo.blog52.fc2.com/blog-entry-1076.html)の記録を出し最速記録を更新。
+[くねお](https://twitter.com/kuneo_x)氏が[**14:31:22**](http://kuneo.blog52.fc2.com/blog-entry-1076.html)の記録を出し最速記録を更新。
 
 ### 2010/09/17
-くねお氏がニコ生配信上で[**14:22:51**](http://kuneo.blog52.fc2.com/blog-entry-1087.html)の記録を出し最速記録を更新。  
+[くねお](https://twitter.com/kuneo_x)氏がニコ生配信上で[**14:22:51**](http://kuneo.blog52.fc2.com/blog-entry-1087.html)の記録を出し最速記録を更新。  
 マリベルにメラミとイオラを習得させる213回稼ぎ戦略。  
-<!-- アイラ加入後稼ぎでメルビンに習得させた剣の舞のダメージの低さに絶望するくねお氏。 -->
+<!-- アイラ加入後稼ぎでメルビンに習得させた剣の舞のダメージの低さに絶望する[くねお](https://twitter.com/kuneo_x)氏。 -->
 
 ### 2010/09/29
-くねお氏が[**14:15:32**](http://kuneo.blog52.fc2.com/blog-entry-1092.html)で最速記録を更新。ラスボスに負けて14時間切りを逃してしまう。
+[くねお](https://twitter.com/kuneo_x)氏が[**14:15:32**](http://kuneo.blog52.fc2.com/blog-entry-1092.html)で最速記録を更新。ラスボスに負けて14時間切りを逃してしまう。
 
 ### 2010/10/01
-てか氏が[中断あり16:28:47](http://kuneo.web.fc2.com/dq7/teka_16_28_47.txt)の記録を出す。  
+[てか](https://twitter.com/teka_shi)氏が[中断あり16:28:47](http://kuneo.web.fc2.com/dq7/teka_16_28_47.txt)の記録を出す。  
 妖精の剣カットかつ過去メモリアリーフで疾風のバンダナを購入。  
-過去メモリアリーフには小さなメダルがあるためメダルを110枚回収するおてう氏は疾風のバンダナも購入していたが、メダルを取らない場合大きな寄り道になるためか、くねお氏はカットしていた。  
+過去メモリアリーフには小さなメダルがあるためメダルを110枚回収する[おてう](https://twitter.com/oteu_bakusou)氏は疾風のバンダナも購入していたが、メダルを取らない場合大きな寄り道になるためか、[くねお](https://twitter.com/kuneo_x)氏はカットしていた。  
 約2m(力の指輪も回収するなら+50s)のロスだが、グラコスに対する先攻率を疾風のバンダナで上げて妖精の剣カットのグラコス戦の勝率を上げる。
 
 ### 2010/11/06
 [PS＆PS2 ドラゴンクエスト RTAリレー対決](http://com.nicovideo.jp/community/co519625)の第1回大会が開かれる。  
-第1回の主催はくねお氏。現在も運営が入れ替わりつつ、PS版ドラゴンクエストRTAリレー対決に名を変えて定期的に大会が開かれている。DQ7に限らず、PS版のDQシリーズのRTAの普及に対する貢献は大きい。
+第1回の主催は[くねお](https://twitter.com/kuneo_x)氏。現在も運営が入れ替わりつつ、PS版ドラゴンクエストRTAリレー対決に名を変えて定期的に大会が開かれている。DQ7に限らず、PS版のDQシリーズのRTAの普及に対する貢献は大きい。
 
 ### 2010/11/22
-steel氏が[**14:43:14**](http://kuneo.web.fc2.com/dq7/steel_14_43_14.txt)の記録を出す。ルーラ習得稼ぎを行う場所の「炎の巨人前の炎の山」から「炎の巨人後の過去エンゴウフィールド」変更の初出か。  
+[steel](https://twitter.com/steel_dqrta)氏が[**14:43:14**](http://kuneo.web.fc2.com/dq7/steel_14_43_14.txt)の記録を出す。ルーラ習得稼ぎを行う場所の「炎の巨人前の炎の山」から「炎の巨人後の過去エンゴウフィールド」変更の初出か。  
 以下の点から、炎の山稼ぎより優れている。
 
 - 炎の巨人の120expを早期に得ることができる。
@@ -244,13 +244,13 @@ steel氏が[**14:43:14**](http://kuneo.web.fc2.com/dq7/steel_14_43_14.txt)の記
 
 <!--
 ### 2010/11/23
-くねお氏がラスボス戦ガボバーサーカー職を提案。船乗りと比べると、混乱完全耐性・素早さ+5%→+10%がメリットだがHP+15%→0%がデメリット。HPの低下のためか、この戦略は現在あまり取られていない。
+[くねお](https://twitter.com/kuneo_x)氏がラスボス戦ガボバーサーカー職を提案。船乗りと比べると、混乱完全耐性・素早さ+5%→+10%がメリットだがHP+15%→0%がデメリット。HPの低下のためか、この戦略は現在あまり取られていない。
 
 また、同氏がダーマでのみかわしの服1枚(眠りの杖も？)購入カットを提案。一人分のみかわし効果がなくなるが守備力は上がり、しかも祈りの指輪を1個温存できるようになる。祈りの指輪を温存できるのは全体回復をベホマラーに頼る上で非常に大きく、こちらは以後完全に主流になる。
 -->
 
 ### 2010/11/28
-くねお氏がニコ生配信上で[**14:00:23**](http://kuneo.blog52.fc2.com/blog-entry-1132.html)の記録を出し最速記録を更新。13時間台目前まで一気に詰める。  
+[くねお](https://twitter.com/kuneo_x)氏がニコ生配信上で[**14:00:23**](http://kuneo.blog52.fc2.com/blog-entry-1132.html)の記録を出し最速記録を更新。13時間台目前まで一気に詰める。  
 ラスボス戦でガボがバーサーカー職。船乗りと比べると、混乱完全耐性・素早さ+5%→+10%がメリットだがHP+15%→0%がデメリット。HPの低下のためか、この戦略は現在あまり取られていない。  
 みかわしの服1枚と眠りの杖の購入をカット。一人分のみかわし効果がなくなるが守備力は上がり、しかも祈りの指輪を1個温存できるようになる。祈りの指輪を温存できるのは全体回復をベホマラーに頼る上で非常に大きく、こちらは以後完全に主流になる。  
 熟練度稼ぎはダーマ解放後108+アイラ加入後116=224回。メルビンに百列舐め(41回)とキアリク(75回)を習得させているため213回を超えている。
@@ -261,140 +261,140 @@ steel氏が[**14:43:14**](http://kuneo.web.fc2.com/dq7/steel_14_43_14.txt)の記
 ## 2011年 - 14時間切りと2人目の四精霊撃破プレイヤー
 
 ### 2011/01/02
-[ヨシュア氏](https://www19.atwiki.jp/yoshua/pages/12.html)が、なんでも実況Vのおま指(おまいらが指定したゲームを寝ずに実況)スレにおいて、[2010年の12/30から約67時間掛けて四精霊撃破](https://www30.atwiki.jp/omashi/pages/60.html#id_34db83f1)を達成する。  
+[ヨシュア](https://www19.atwiki.jp/yoshua/pages/12.html)氏が、なんでも実況Vのおま指(おまいらが指定したゲームを寝ずに実況)スレにおいて、[2010年の12/30から約67時間掛けて四精霊撃破](https://www30.atwiki.jp/omashi/pages/60.html#id_34db83f1)を達成する。  
 詳細は不明。初めて映像配信上で出された四精霊撃破RTAの記録……と言えるかもしれない。
 
 - [開始時のスレッド(レス944)](http://hayabusa.5ch.net/test/read.cgi/livevenus/1293652090/)
 - [終了時のスレッド(レス596)](http://hayabusa.5ch.net/test/read.cgi/livevenus/1293909520/)
 
 ### 2011/01/07
-nichi氏がモンスター図鑑の使用によるエンカウントリセットを発見。残念ながら、入手に時間が掛かる・図鑑の開閉に約8秒・フィールドでしか使えない、といった点から使われていない。
+[nichi](http://nichi322.blog52.fc2.com/)氏がモンスター図鑑の使用によるエンカウントリセットを発見。残念ながら、入手に時間が掛かる・図鑑の開閉に約8秒・フィールドでしか使えない、といった点から使われていない。
 
 ### 2011/02/03
-腹黒パンダ氏が[先プロビナ戦略](https://harapan.exblog.jp/15422264/)を公開。  
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[先プロビナ戦略](https://harapan.exblog.jp/15422264/)を公開。  
 過去プロビナを攻略するタイミングを、従来のメルビン加入後から過去ハーメリア攻略後に前倒しする戦略。  
 グラコス戦で死者が出ても蘇生ロスがないどころか自殺ルーラに利用できる。  
 金策によっては防具屋で厚手の鎧を買えない、などのデメリットも。
 
 ### 2011/02/07
-steel氏が[ラスダンで拾える嘆きの盾の有用性](http://steelbox.blog110.fc2.com/blog-entry-6.html)を発見。  
+[steel](https://twitter.com/steel_dqrta)氏が[ラスダンで拾える嘆きの盾の有用性](http://steelbox.blog110.fc2.com/blog-entry-6.html)を発見。  
 嘆きの盾には、装備者の受けた打撃ダメージをランダムな他味方キャラと折半する効果がある。  
 その効果によって、オルゴ2-2の「燃え盛る火炎→強制睡眠→打撃」や「正拳突き→打撃→メラゾーマ」、オルゴ2-3の「悍ましい雄叫び→混乱打撃」に耐えたりする。  
 ブレス耐性がなかったり、呪い装備のため他の盾に換装できない欠点があるものの、ラスボス戦の嘆きの盾は現在に至るまで主流である。
 
 ### 2011/02/19
-腹黒パンダ氏が[マリベル使用270回稼ぎ戦略](https://harapan.exblog.jp/15536742/)を公開する。  
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[マリベル使用270回稼ぎ戦略](https://harapan.exblog.jp/15536742/)を公開する。  
 当時主流だった213回稼ぎ戦略と比較すると、忍び足・怒涛の羊・スクルト・ノアの方舟・百列舐めがある代わりに、アイラ舞がない。  
 ラスボス直前の+5戦でノアの方舟を習得するのがスタイリッシュ。
 
 ### 2011/02/27
-くねお氏がUstream配信上で[**13:44:23**](http://kuneo.web.fc2.com/dq7/13_44_23.html)の記録を出し最速記録を更新＆初の14時間切りを達成。  
+[くねお](https://twitter.com/kuneo_x)氏がUstream配信上で[**13:44:23**](http://kuneo.web.fc2.com/dq7/13_44_23.html)の記録を出し最速記録を更新＆初の14時間切りを達成。  
 熟練度稼ぎは108+105の213回。メルビンには盗賊30戦で突き飛ばしを、船乗り75戦でキアリクを習得させている。
 
-steel氏がニコ生配信上で[**四精霊撃破18:46:18**](http://steelbox.blog110.fc2.com/blog-entry-13.html)を出し最速記録を更新。おてう氏以来2人目の四精霊撃破RTAプレイヤーの誕生である。  
+[steel](https://twitter.com/steel_dqrta)氏がニコ生配信上で[**四精霊撃破18:46:18**](http://steelbox.blog110.fc2.com/blog-entry-13.html)を出し最速記録を更新。[おてう](https://twitter.com/oteu_bakusou)氏以来2人目の四精霊撃破RTAプレイヤーの誕生である。  
 以下の点が特徴。
-- 通常RTAのThe Endも見ている(おてう氏と同じ)。
+- 通常RTAのThe Endも見ている([おてう](https://twitter.com/oteu_bakusou)氏と同じ)。
 - 移民は道中進みながら回収する。
 - 水の精霊復活後の熟練度稼ぎで全員にキアリクを習得させている。キアリクなら複数起こせる上、「しょうかん」されたキャラも起こせる(目覚めの歌では不可)。
-- 神様戦はダメージの安定供給のため、マリベルの怒涛の羊ではなくアイラの剣の舞を採用している(おてう氏はマリベル羊)。
+- 神様戦はダメージの安定供給のため、マリベルの怒涛の羊ではなくアイラの剣の舞を採用している([おてう](https://twitter.com/oteu_bakusou)氏はマリベル羊)。
 
 ### 2011/03/10
-nichi氏が[中断あり14:52:33](http://nichi322.blog52.fc2.com/blog-entry-43.html)の記録を出す。<!--メダル・移民なし戦略での、-->183回稼ぎ戦略の初出か。  
+[nichi](http://nichi322.blog52.fc2.com/)氏が[中断あり14:52:33](http://nichi322.blog52.fc2.com/blog-entry-43.html)の記録を出す。<!--メダル・移民なし戦略での、-->183回稼ぎ戦略の初出か。  
 カジノでラッキーパネルを使い、鉄の斧や鉄兜を入手。ダーマ解放後稼ぎでいきなりベホマラーを習得しているためしばらくは安定する。
 
 ### 2011/03/22
-腹黒パンダ氏が[経験値管理表と資産管理表](https://harapan.exblog.jp/15694649/)を公開。
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[経験値管理表と資産管理表](https://harapan.exblog.jp/15694649/)を公開。
 
 ### 2011/03/30
-腹黒パンダ氏が[ボス戦ダメージ計算表](https://harapan.exblog.jp/15736473/)を公開。
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[ボス戦ダメージ計算表](https://harapan.exblog.jp/15736473/)を公開。
 
 ### 2011/03/31
-くねお氏が[詳細な攻略チャート](http://kuneo.blog52.fc2.com/blog-entry-1200.html)を公開。数多くのDQ7RTAプレイヤーに参考にされることになった。
+[くねお](https://twitter.com/kuneo_x)氏が[詳細な攻略チャート](http://kuneo.blog52.fc2.com/blog-entry-1200.html)を公開。数多くのDQ7RTAプレイヤーに参考にされることになった。
 
 ### 2011/04/29
-腹黒パンダ氏が[中断あり13:51:21](https://harapan.exblog.jp/15889959/)の記録を出す。  
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[中断あり13:51:21](https://harapan.exblog.jp/15889959/)の記録を出す。  
 中断ありではあるが、ラスボス戦でマリベルを使用する戦略としては初の14時間切り。
 
 ### 2011/06/12
-くねお氏が[会話を進めるときの連射速度は12回/sより20回/sのほうが僅かに速いこと](http://kuneo.blog52.fc2.com/blog-entry-1233.html)を発見。  
+[くねお](https://twitter.com/kuneo_x)氏が[会話を進めるときの連射速度は12回/sより20回/sのほうが僅かに速いこと](http://kuneo.blog52.fc2.com/blog-entry-1233.html)を発見。  
 僅かなタイム短縮でも望むプレイヤーは、長い会話イベントで一時的に20回/sに変更するようになる。
 
 ### 2011/06/27
-てか氏が[中断あり13:41:31](http://blog-imgs-45.fc2.com/t/e/k/tekabox/20110802215515948.txt)の記録を出す。中断ありではあるが、当時の最速より3分速い。  
-くねお氏の戦略との大きな違いは、妖精の剣カット＆疾風のバンダナ購入に加え、同じ213回稼ぎ戦略でもアイラ加入後のメルビンにスカラ・マホトーン・百列舐めを習得させている点。
+[てか](https://twitter.com/teka_shi)氏が[中断あり13:41:31](http://blog-imgs-45.fc2.com/t/e/k/tekabox/20110802215515948.txt)の記録を出す。中断ありではあるが、当時の最速より3分速い。  
+[くねお](https://twitter.com/kuneo_x)氏の戦略との大きな違いは、妖精の剣カット＆疾風のバンダナ購入に加え、同じ213回稼ぎ戦略でもアイラ加入後のメルビンにスカラ・マホトーン・百列舐めを習得させている点。
 
 ### 2011/08/30
-nichi氏が[バロックタワーの壁抜け](http://dq7.dq-wiki.com/koramu/kabenonakanimohaireru,.htm)を再発見。
+[nichi](http://nichi322.blog52.fc2.com/)氏が[バロックタワーの壁抜け](http://dq7.dq-wiki.com/koramu/kabenonakanimohaireru,.htm)を再発見。
 ストーリーを破壊しないテクニックということで使用を許可される。
 
 ### 2011/09頃
-くねお氏と腹黒パンダ氏が序盤の武器の調査を行い、現代ウッドパルナ銅の剣購入が残る。  
+[くねお](https://twitter.com/kuneo_x)氏と[腹黒パンダ](https://harapan.exblog.jp/)氏が序盤の武器の調査を行い、現代ウッドパルナ銅の剣購入が残る。  
 過去エンゴウで購入していた鱗の盾がカットされる代わりに、道中狩りの火力が上がる。  
-銅の剣の購入タイミングは現代採掘場直前なので、現代採掘場自殺ルーラという選択肢も生まれた(自殺ルーラ自体はおてう氏の[ゲーム内時間TA13:30](https://oteu.net/diary/7ta.html)で既に登場している)。
+銅の剣の購入タイミングは現代採掘場直前なので、現代採掘場自殺ルーラという選択肢も生まれた(自殺ルーラ自体は[おてう](https://twitter.com/oteu_bakusou)氏の[ゲーム内時間TA13:30](https://oteu.net/diary/7ta.html)で既に登場している)。
 
 関連:
 - [くねおの適当な日記 序盤](http://kuneo.blog52.fc2.com/blog-entry-1280.html)
 - [練り直し : 腹黒パンダさん日記](https://harapan.exblog.jp/16490539/)
 
 ### 2011/09/07
-腹黒パンダ氏が[アイラ使用270回稼ぎ案](https://harapan.exblog.jp/16513637/)を公開。
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[アイラ使用270回稼ぎ案](https://harapan.exblog.jp/16513637/)を公開。
 
 ### 2011/09/24
-腹黒パンダ氏が[アイラ使用183回稼ぎ案](https://harapan.exblog.jp/16584065/)を公開。  
+[腹黒パンダ](https://harapan.exblog.jp/)氏が[アイラ使用183回稼ぎ案](https://harapan.exblog.jp/16584065/)を公開。  
 183回稼ぎ戦略では口笛がカットされる。
 
 <!--
 ### 2011/10/11
-steel氏がマリベルのしっぺ返しに関する考察を公開。
+[steel](https://twitter.com/steel_dqrta)氏がマリベルのしっぺ返しに関する考察を公開。
 -->
 
 <!--
 ### 2011/11/19
-nichi氏が「にげる」コマンドによる補助呪文の永続技・天上の神殿の回復ポイントの有用性(水の精霊復活後、ルーラですぐ行けてタダで蘇生できる)を公開。
+[nichi](http://nichi322.blog52.fc2.com/)氏が「にげる」コマンドによる補助呪文の永続技・天上の神殿の回復ポイントの有用性(水の精霊復活後、ルーラですぐ行けてタダで蘇生できる)を公開。
 後者は現在も利用されている。
 -->
 
 ## 2012年 - 縦移動の発見
 
 ### 2012/02/10
-nichi氏が[ダンジョンや町の中において横よりも縦方向のほうが速く移動できること](http://kuneo.blog52.fc2.com/blog-entry-1362.html)を発見。  
+[nichi](http://nichi322.blog52.fc2.com/)氏が[ダンジョンや町の中において横よりも縦方向のほうが速く移動できること](http://kuneo.blog52.fc2.com/blog-entry-1362.html)を発見。  
 戦略ゲーからレースゲーへの移り変わりが告げられた歴史的瞬間である(冗談です)。  
 PS版DQ7とほぼ同じエンジンのPS版DQ4でも縦移動は短縮になる。
 
 ### 2012/02/16
-ななしま氏が[183回稼ぎ案](http://satinsilver.blog91.fc2.com/blog-entry-39.html)を公開。アイラに剣の舞を習得させる現在の形に近い。
+[ななしま](https://twitter.com/nanashi_ma)氏が[183回稼ぎ案](http://satinsilver.blog91.fc2.com/blog-entry-39.html)を公開。アイラに剣の舞を習得させる現在の形に近い。
 
 ### 2012/03/27
-やまぴー氏が[13:49:34](http://space.geocities.jp/dqyamap/dq7_13h49m34s/main.html)の記録を出す。  
+[やまぴー](https://twitter.com/yaamaap25/with_replies/)氏が[13:49:34](http://space.geocities.jp/dqyamap/dq7_13h49m34s/main.html)の記録を出す。  
 ラスボス戦でマリベルを使う戦略としては初の14時間切り。また、氏は縦移動を逸早く取り入れていた。
 
 ### 2012/06/14
-筆者がPeerCast配信上で[**13:32:00**](http://pingval.g1.xrea.com/dq7/rta-13h32m00s/)の記録を出し最速記録を更新。  
-108+41+65の214回稼ぎ戦略で、くねお氏の214回稼ぎ戦略ではユバールで稼いでいた41戦をグリンフレークで稼ぎ、マリベルとメルビンふたりに百列舐めを習得させている点が特徴。  
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**13:32:00**](http://pingval.g1.xrea.com/dq7/rta-13h32m00s/)の記録を出し最速記録を更新。  
+108+41+65の214回稼ぎ戦略で、[くねお](https://twitter.com/kuneo_x)氏の214回稼ぎ戦略ではユバールで稼いでいた41戦をグリンフレークで稼ぎ、マリベルとメルビンふたりに百列舐めを習得させている点が特徴。  
 また、ラスボス前のレベリングを卵ではなくマーディラスで行っていた。  
 
 ### 2012/07/08
-いちご氏がUstream配信上で[13:34:52](http://kuneo.web.fc2.com/dq7/ichigo_13_34_52.txt)の記録を出す。  
+[いちご](https://twitter.com/ichigo_rta)氏がUstream配信上で[13:34:52](http://kuneo.web.fc2.com/dq7/ichigo_13_34_52.txt)の記録を出す。  
 メルビンには魔法使い105戦でルカニ・メラミ・イオラを習得させている。213回稼ぎ戦略の中では最速の記録であり、完成形と言えるだろう。
 
 ### 2012/09/14
-allgreen氏が[ウッドパルナinまでのTAS動画](https://www.nicovideo.jp/watch/sm18964662)を公開。  
+[allgreen](https://www.nicovideo.jp/user/1322210)氏が[ウッドパルナinまでのTAS動画](https://www.nicovideo.jp/watch/sm18964662)を公開。  
 氏はSFC版DQ2,3,6のTASを完成させた実績があるため期待されたが、残念ながらTAS自体の続きは現在に至るまで投稿されていない。
 
 ## 2013年 - 183回稼ぎとカジノ技
 
 ### 2013/01/29
-allgreen氏が[ポーカー用カジノ技ツール](https://www.nicovideo.jp/mylist/37644644)を公開。
+[allgreen](https://www.nicovideo.jp/user/1322210)氏が[ポーカー用カジノ技ツール](https://www.nicovideo.jp/mylist/37644644)を公開。
 
 ### 2013/03/24
-かくれみ氏が[モンスターデータ・エンカウントテーブル・ラッキーパネル乱数解析・心を入手するための乱数解析](http://kakuremi.webcrow.jp/files)を公開。貴重な貴重な解析資料である。
+[かくれみ](http://kakuremi.webcrow.jp/)氏が[モンスターデータ・エンカウントテーブル・ラッキーパネル乱数解析・心を入手するための乱数解析](http://kakuremi.webcrow.jp/files)を公開。貴重な貴重な解析資料である。
 
 関連:
 - [DQ7先攻率、後攻率、メタルキング狩り - steel用メモ置き場(steel氏によるエンカウントテーブル考察)](http://steelbox.blog110.fc2.com/blog-entry-77.html)
 - [筆者のモンスターデータxls](http://pingval.g1.xrea.com/dq7/psdq7-monster.zip)
 
 ### 2013/05/05
-いちご氏がJustin.tv配信上で[**13:30:05**](http://kuneo.web.fc2.com/dq7/ichigo_13_30_05.txt)の記録を出し最速記録を更新。  
+[いちご](https://twitter.com/ichigo_rta)氏がJustin.tv配信上で[**13:30:05**](http://kuneo.web.fc2.com/dq7/ichigo_13_30_05.txt)の記録を出し最速記録を更新。  
 熟練度稼ぎを213回から183回に減らしたのが最大の特徴。これ以降、熟練度稼ぎの回数は183回が現在に至るまで主流となる。  
 キアリーがないのは毒消し草を持たせることで、寝るがないのは回復ポイントの活用や主人公のMPで回復することで対処している。
 <!--
@@ -404,27 +404,27 @@ allgreen氏が[ポーカー用カジノ技ツール](https://www.nicovideo.jp/my
 -->
 
 ### 2013/06頃
-allgreen氏のカジノ技ツールがRTAプレイヤー達に知られ始め、くねお氏の管理するDQ7RTA記録集では「カジノ技使用」と「カジノ技非使用」に分けて扱われることになった(※かくれみ氏のラッキーパネル乱数解析ツールは当時まだ認知されていなかった)。
+[allgreen](https://www.nicovideo.jp/user/1322210)氏のカジノ技ツールがRTAプレイヤー達に知られ始め、[くねお](https://twitter.com/kuneo_x)氏の管理するDQ7RTA記録集では「カジノ技使用」と「カジノ技非使用」に分けて扱われることになった(※[かくれみ](http://kakuremi.webcrow.jp/)氏のラッキーパネル乱数解析ツールは当時まだ認知されていなかった)。
 
 関連:
 - [DQ7カジノチャート - steel用メモ置き場](http://steelbox.blog110.fc2.com/blog-entry-75.html)
 - [くねおの適当な日記 DQ7、カジノ技と記録集](http://kuneo.blog52.fc2.com/blog-entry-1452.html)
 
 ### 2013/06/15
-いちご氏がTwitch配信上で[**カジノ技非使用13:10:56**](http://kuneo.web.fc2.com/dq7/ichigo_13_10_56.txt)の記録を出し最速記録を更新。  
-13:30:05からの戦略の変更点は、てか氏の指摘によりアイラ加入後稼ぎの場所を過去ユバールから過去ダーマへ変更したこと。  
+[いちご](https://twitter.com/ichigo_rta)氏がTwitch配信上で[**カジノ技非使用13:10:56**](http://kuneo.web.fc2.com/dq7/ichigo_13_10_56.txt)の記録を出し最速記録を更新。  
+13:30:05からの戦略の変更点は、[てか](https://twitter.com/teka_shi)氏の指摘によりアイラ加入後稼ぎの場所を過去ユバールから過去ダーマへ変更したこと。  
 マシンマスター戦での鉄の斧ドロップ(通常からくり兵1/128)という強運を繋げきった記録でもある。
 
 ### 2013/11/10
-けった氏がニコ生配信上で[**カジノ技非使用13:09:45**](http://kuneo.web.fc2.com/dq7/ketta_13_09_45.txt)の記録を出し最速記録を更新。  
-いちご氏との戦略の違いは、ダーマ解放後の熟練度稼ぎでマリベルにメラミ・イオラではなく忍び足を習得させている点。  
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用13:09:45**](http://kuneo.web.fc2.com/dq7/ketta_13_09_45.txt)の記録を出し最速記録を更新。  
+[いちご](https://twitter.com/ichigo_rta)氏との戦略の違いは、ダーマ解放後の熟練度稼ぎでマリベルにメラミ・イオラではなく忍び足を習得させている点。  
 忍び足でエンカ数を減らせる代わり、イオラを使えない山賊軍団・タイムマスター・ヘルバオム戦が強敵となる。
 
 ### 2013/12/16
-るるMk2氏がニコ生配信上で[**カジノ技使用13:10:27**](http://ch.nicovideo.jp/rurumk2/blomaga/ar414520)の記録を出す。
+[るるMk2](https://twitter.com/rurumk2)氏がニコ生配信上で[**カジノ技使用13:10:27**](http://ch.nicovideo.jp/rurumk2/blomaga/ar414520)の記録を出す。
 
 ### 2013/12/23
-steel氏がニコ生配信上で[**四精霊撃破(カジノ技非使用)16:30:45**](https://blog-imgs-47-origin.fc2.com/s/t/e/steelbox/20140114195316e3f.htm)の記録を出し最速記録を更新。  
+[steel](https://twitter.com/steel_dqrta)氏がニコ生配信上で[**四精霊撃破(カジノ技非使用)16:30:45**](https://blog-imgs-47-origin.fc2.com/s/t/e/steelbox/20140114195316e3f.htm)の記録を出し最速記録を更新。  
 前回からの変更点は:
 
 - 前回道中回収していた移民は、デス・アミーゴ撃破後にリセット4回で25人集める。道中回収よりも脳への負担が少ないとのこと。
@@ -435,7 +435,7 @@ steel氏がニコ生配信上で[**四精霊撃破(カジノ技非使用)16:30:4
 ## 2014年 - 13時間切りと海外勢の登場
 
 ### 2014/01/23
-allgreen氏が[PS版DQ7　凍れる時の秘法](https://www.nicovideo.jp/watch/sm22726777)を公開。  
+[allgreen](https://www.nicovideo.jp/user/1322210)氏が[PS版DQ7　凍れる時の秘法](https://www.nicovideo.jp/watch/sm22726777)を公開。  
 現在RTAでは、過去ルーメンのベビーゴイル戦・メタキン狩り・オルゴ2-1とどめ・四精霊戦で、味方の行動に確定先制効果を乗せる「はなす技」として利用されている。
 
 関連:
@@ -443,12 +443,12 @@ allgreen氏が[PS版DQ7　凍れる時の秘法](https://www.nicovideo.jp/watch/
 - [【はなす殴り】 - ドラゴンクエスト大辞典を作ろうぜ！！第三版 Wiki*](https://wikiwiki.jp/dqdic3rd/%E3%80%90%E3%81%AF%E3%81%AA%E3%81%99%E6%AE%B4%E3%82%8A%E3%80%91)
 
 ### 2014/03/24
-Speed Demos ArchiveのForumで、Emily氏が[北米版のSegmented Run約21:11](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1.html)の記録を報告する。  
+[Speed Demos Archive](http://speeddemosarchive.com/)のForumで、Emily氏が[北米版のSegmented Run約21:11](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1.html)の記録を報告する。  
 PS3使用、連射機不使用で、戦闘中の表示速度「1」(自動でメッセージが流れるが「8」より遅い)であった。
 
 ### 2014/04/07
-Emily氏が北米版のSegmented Runで15:50:??の記録を出す。  
-[やまぴー氏のカジノ技非使用13:49:34の動画](http://www.nicovideo.jp/watch/sm19337550)が参考にされた。PS2と高速モードを使用。プロビナ飛ばし(Probina Skip)が採用される。
+Emily氏が[北米版のSegmented Runで15:50:??](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1_22.html#dragon_warrior_vii_ps1_22)の記録を出す。  
+[やまぴー](https://twitter.com/yaamaap25/with_replies/)氏の[カジノ技非使用13:49:34の動画](http://www.nicovideo.jp/watch/sm19337550)が参考にされた。PS2と高速モードを使用。プロビナ飛ばし(Probina Skip)が採用される。
 
 日本と海外でのルールの違い:
 
@@ -465,25 +465,25 @@ Emily氏がSegmentedではなくSingle-Segment(≒RTA)で[**北米版16:27:57**]
 残念ながら氏のPCが壊れてしまったため動画は投稿されていない。
 
 ### 2014/05/11~12
-るるMk2氏が[刃のブーメラン1本案](http://ch.nicovideo.jp/rurumk2/blomaga/ar526025)を公開。  
-また、いちご氏が[過去フォーリッシュブーメラン購入案](https://twitter.com/ichigo_RTA/status/465786751726804992)を公開。  
+[るるMk2](https://twitter.com/rurumk2)氏が[刃のブーメラン1本案](http://ch.nicovideo.jp/rurumk2/blomaga/ar526025)を公開。  
+また、[いちご](https://twitter.com/ichigo_rta)氏が[過去フォーリッシュブーメラン購入案](https://twitter.com/ichigo_RTA/status/465786751726804992)を公開。  
 ブーメランがにわかに注目を浴びる。
 
-<!-- なお、くねお氏が2011/08/25の時点で軽く言及していた。 -->
+<!-- なお、[くねお](https://twitter.com/kuneo_x)氏が2011/08/25の時点で軽く言及していた。 -->
 
 ### 2014/07頃
-筆者がエミュレータを用いて[さまざまな調査](http://pingval.g1.xrea.com/dq7/research/)を行う。
+[筆者](https://twitter.com/pingval)がエミュレータを用いて[さまざまな調査](http://pingval.g1.xrea.com/dq7/research/)を行う。
 
 - [エンカウントシステム調査](http://pingval.g1.xrea.com/dq7/enc/)によって、「フィールド上でのエンカウント域の切り替えによるエンカウントリセット」の仕様が明らかになった。これを踏まえて、フィールド上の移動の最適化や街の出入りのカットが行われるようになった。  
   縦移動とは異なり、PS版DQ4ではこの仕様はなくなっている。
 - デュゴンの兜とフエーゴの兜はどちらも混乱耐性が上がるが、前者は耐性4倍、後者は耐性8倍と、フエーゴの兜のほうが優秀らしいことがわかった。また、フエーゴの兜ならばカットの分岐を取りやすい。そのためか、デュゴンの兜購入戦略は廃れていった。
 
 ### 2014/08/25
-steel氏が[過去レブレサックのフォレストガード戦自殺](https://twitter.com/steel_dqrta/status/503860612602925056)を発見。  
+[steel](https://twitter.com/steel_dqrta)氏が[過去レブレサックのフォレストガード戦自殺](https://twitter.com/steel_dqrta/status/503860612602925056)を発見。  
 実は過去フォロッドのフォロッド兵戦のように、負けてもストーリーが進むイベントであることが判明する。わざと負けたほうが速い上にデメリットもほぼない。
 
 ### 2014/09/08
-けった氏がニコ生配信上で[**カジノ技非使用13:07:22**](http://ch.nicovideo.jp/kettamachine/blomaga/ar619176)の記録を出し最速記録を更新。  
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用13:07:22**](http://ch.nicovideo.jp/kettamachine/blomaga/ar619176)の記録を出し最速記録を更新。  
 過去フォーリッシュブーメラン購入が採用されている。  
 
 以下の戦略は現在に至るまで主流である。
@@ -492,39 +492,39 @@ steel氏が[過去レブレサックのフォレストガード戦自殺](https:
 - 妖精の剣カット
 
 ### 2014/10/05
-筆者がPeerCast配信上で[**カジノ技非使用13:00:13**](http://pingval.g1.xrea.com/dq7/rta-13h00m13s/)の記録を出し最速記録を更新。
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**カジノ技非使用13:00:13**](http://pingval.g1.xrea.com/dq7/rta-13h00m13s/)の記録を出し最速記録を更新。
 
 ### 2014/11/08
-いちご氏がニコ生配信上で[**カジノ技使用13:08:12**](https://twitter.com/ichigo_RTA/status/530969126924075009)の記録を出し最速記録を更新。
+[いちご](https://twitter.com/ichigo_rta)氏がニコ生配信上で[**カジノ技使用13:08:12**](https://twitter.com/ichigo_RTA/status/530969126924075009)の記録を出し最速記録を更新。
 
 ### 2014/11/30
-筆者がPeerCast配信上で[**カジノ技非使用12:58:42**](http://pingval.g1.xrea.com/dq7/rta-12h58m42s/)の記録を出し最速記録を更新＆初13時間切り達成。
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**カジノ技非使用12:58:42**](http://pingval.g1.xrea.com/dq7/rta-12h58m42s/)の記録を出し最速記録を更新＆初13時間切り達成。
 
-また同日、いちご氏がニコ生配信上で[**カジノ技使用12:56:08**](https://twitter.com/ichigo_RTA/status/538901595983855616)の記録を出し最速記録を更新＆初13時間切り達成。詳細は不明。現行最速記録である。
+また同日、[いちご](https://twitter.com/ichigo_rta)氏がニコ生配信上で[**カジノ技使用12:56:08**](https://twitter.com/ichigo_RTA/status/538901595983855616)の記録を出し最速記録を更新＆初13時間切り達成。詳細は不明。現行最速記録である。
 
 ### 2014/12/06
-Highspirits氏が[北米版17:18:06](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1_52.html#dragon_warrior_vii_ps1_52)の記録を出す。氏は筆者のプレイを参考にした。
+[Highspirits](https://twitter.com/highspirits_1)氏が[北米版17:18:06](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1_52.html#dragon_warrior_vii_ps1_52)の記録を出す。氏は[筆者](https://twitter.com/pingval)のプレイを参考にした。
 
 ## 2015年
 
 ### 2015/01/26
-Highspirits氏が[**北米版16:14:47**](https://www.speedrun.com/dqvii/run/0y67k41m)の記録を出し最速記録を更新。
+[Highspirits](https://twitter.com/highspirits_1)氏が[**北米版16:14:47**](https://www.speedrun.com/dqvii/run/0y67k41m)の記録を出し最速記録を更新。
 
 ### 2015/02/03
 [speedrun.com](https://www.speedrun.com/)に[DQ7の項目](https://www.speedrun.com/dqvii)が作成される。
 
 ### 2015/02/09
-Highspirits氏が[**北米版15:57:11**](https://www.speedrun.com/dqvii/run/pyd36lqz)の記録を出し最速記録を更新。
+[Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:57:11**](https://www.speedrun.com/dqvii/run/pyd36lqz)の記録を出し最速記録を更新。
 
 ### 2015/04/20
-Highspirits氏が[**北米版15:44:30**](https://www.speedrun.com/dqvii/run/jy95e02z)の記録を出し最速記録を更新。
+[Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:44:30**](https://www.speedrun.com/dqvii/run/jy95e02z)の記録を出し最速記録を更新。
 
 ### 2015/08/22
-筆者が[移民出現率調査](https://docs.google.com/spreadsheets/d/1LyaElwvzqMvFRFqxBq_UPlA6w7ovRM5iBW7pZ78p8IY/edit#gid=448016640)を公開。  
-回収ポイントごとの出現率の違いや、移民回収人数による出現率の変化が明らかになった。
+[筆者](https://twitter.com/pingval)が[移民出現率調査](https://docs.google.com/spreadsheets/d/1LyaElwvzqMvFRFqxBq_UPlA6w7ovRM5iBW7pZ78p8IY/edit#gid=448016640)を公開。  
+回収ポイントごとの出現率の違いや、回収した人数による出現率の変化が明らかになった。
 
 ### 2015/10/30
-筆者がPeerCast配信において[**四精霊撃破(カジノ技非使用)16:22:00**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h22m00s/)の記録を出し最速記録を更新。  
+[筆者](https://twitter.com/pingval)がPeerCast配信において[**四精霊撃破(カジノ技非使用)16:22:00**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h22m00s/)の記録を出し最速記録を更新。  
 以下の点が特徴。
 
 - 移民のノーリセ回収・回収ポイントの最適化。
@@ -533,22 +533,22 @@ Highspirits氏が[**北米版15:44:30**](https://www.speedrun.com/dqvii/run/jy95
 
 <!--
 ### 2015/11/28
-筆者が[四精霊撃破RTAの詳細な攻略チャート](http://pingval.g1.xrea.com/dq7/rta-4spirits-chart/)を公開。
+[筆者](https://twitter.com/pingval)が[四精霊撃破RTAの詳細な攻略チャート](http://pingval.g1.xrea.com/dq7/rta-4spirits-chart/)を公開。
 -->
 
 ## 2016年
 ### 2016/01/01
-筆者がPeerCast配信上で[**四精霊撃破(カジノ技非使用)16:14:03**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h14m03s/)の記録を出し最速記録を更新。現行最速記録である。  
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**四精霊撃破(カジノ技非使用)16:14:03**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h14m03s/)の記録を出し最速記録を更新。現行最速記録である。  
 16:22:00からの変更点はフエーゴの兜カットくらい。
 
 ### 2016/01/25
-Highspirits氏が[**北米版15:42:12**](https://www.speedrun.com/dqvii/run/0zn7918m)の記録を出し最速記録を更新。
+[Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:42:12**](https://www.speedrun.com/dqvii/run/0zn7918m)の記録を出し最速記録を更新。
 
 ### 2016/03/28
-Highspirits氏が[**北米版15:22:50**](https://www.speedrun.com/dqvii/run/kz5xxwey)の記録を出し最速記録を更新。
+[Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:22:50**](https://www.speedrun.com/dqvii/run/kz5xxwey)の記録を出し最速記録を更新。
 
 ### 2016/05/01
-Rou氏のニコ生配信でのリスナーの発言がきっかけになって、世界一高い塔の壁抜けが発見される。短縮時間は約3s。  
+[Rou](https://twitter.com/rou_2525)氏のニコ生配信でのリスナーの発言がきっかけになって、世界一高い塔の壁抜けが発見される。短縮時間は約3s。  
 ストーリーを破壊しない技ということで、このバグの使用は許可される。
 
 関連:
@@ -557,18 +557,18 @@ Rou氏のニコ生配信でのリスナーの発言がきっかけになって�
 
 <!--
 ### 2016/11/10
-@niftyのホームページサービスが終了。おてう氏のプレイレポートやドラゴンクエストの走り方が閲覧できなくなる。
+@niftyのホームページサービスが終了。[おてう](https://twitter.com/oteu_bakusou)氏のプレイレポートやドラゴンクエストの走り方が閲覧できなくなる。
 -->
 
 ### 2016/11/30
-spice氏がニコ生配信上で[**カジノ技非使用12:58:34**](http://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)の記録を出し最速記録を更新。
+[spice](https://twitter.com/spice_ta)氏がニコ生配信上で[**カジノ技非使用12:58:34**](http://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)の記録を出し最速記録を更新。
 
-筆者の12:58:42との戦略の違いは主に以下の点:
+[筆者](https://twitter.com/pingval)の12:58:42との戦略の違いは主に以下の点:
 
 - 過去フォーリッシュでブーメランを購入するが、過去グリンフレークで2個目の刃のブーメラン購入はしない。
 - 道中狩り6回+リップス68回→道中狩り3回+リップス41回+船乗り30回とすることでメルビンに体当たりを習得させる。体当たりは過去レブレサックや過去サンゴの洞窟での自殺ルーラに使う。
 - 過去メモリアリーフに寄り道せず(-約2m)、疾風のバンダナなしでグラコスと戦う。これは現在も主流になっている。  
-メダル取るから寄り道にならない(おてう)→寄り道しない(くねお)→する(てか)→やっぱりしない(spice)、という歴史の流れ。
+メダル取るから寄り道にならない([おてう](https://twitter.com/oteu_bakusou))→寄り道しない([くねお](https://twitter.com/kuneo_x))→する([てか](https://twitter.com/teka_shi))→やっぱりしない([spice](https://twitter.com/spice_ta))、という歴史の流れ。
 - ガボの最終装備が水の羽衣(耐性:炎30)ではなく厚手の鎧(耐性:炎15氷15)。
 
 ## 2017年
@@ -579,18 +579,18 @@ spice氏がニコ生配信上で[**カジノ技非使用12:58:34**](http://ch.ni
 -->
 
 ### 2017/02/24
-けった氏がニコ生配信上で[**カジノ技非使用12:56:14**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1202297)の記録を出し最速記録を更新。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:56:14**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1202297)の記録を出し最速記録を更新。
 
 ### 2017/02/28
-みるきぃ氏がTwitch配信上で[**カジノ技非使用12:54:55**](http://ch.nicovideo.jp/gagamilky/blomaga/ar1199024)の記録を出し最速記録を更新。
+[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:54:55**](http://ch.nicovideo.jp/gagamilky/blomaga/ar1199024)の記録を出し最速記録を更新。
 
-最速記録保持者の座を4日で奪われたけった氏は同日、[ドラゴンクエストⅦ 7日間ゲーム実況](http://live.nicovideo.jp/watch/lv289474784)に悲しみを背負って出演することになる。
+最速記録保持者の座を4日で奪われた[けった](https://twitter.com/ketta0503)氏は同日、[ドラゴンクエストⅦ 7日間ゲーム実況](http://live.nicovideo.jp/watch/lv289474784)に悲しみを背負って出演することになる。
 
 ### 2017/03/21
-じゃっくそん氏が[TAS](https://www.nicovideo.jp/watch/sm30866047)を公開する。現在は炎の巨人撃破後まで投稿されている。
+[じゃっくそん](https://twitter.com/jackjasonb)氏が[TAS](https://www.nicovideo.jp/watch/sm30866047)を公開する。現在は炎の巨人撃破後まで投稿されている。
 
 ### 2017/05/05
-けった氏が[RTA in Japan for #C4LANJP](https://rtainjapan.net/rtaij/rta-in-japan-for-c4lanjp/)にてDQ7を走り[12:57:19](https://rtainjapan.net/schedule/game-title/dq7/)の記録を出す。  
+[けった](https://twitter.com/ketta0503)氏が[RTA in Japan for #C4LANJP](https://rtainjapan.net/rtaij/rta-in-japan-for-c4lanjp/)にてDQ7を走り[12:57:19](https://rtainjapan.net/schedule/game-title/dq7/)の記録を出す。  
 長時間RTAばかりを集めたイベントのトリで一発勝負13時間切りという快挙。
 
 ### 2017/夏頃
@@ -599,7 +599,7 @@ spice氏がニコ生配信上で[**カジノ技非使用12:58:34**](http://ch.ni
 ## 2018年 - 12:50切り争いは突然に
 
 ### 2018/01/20
-Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北米版で挑戦するが失敗。果たして人間に完走できるのか？
+[Highspirits](https://twitter.com/highspirits_1)氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北米版で挑戦するが失敗。果たして人間に完走できるのか？
 
 - **モンスター職含む全職マスター**(全部1人でやらなくてもいい)
 - 小さなメダル110枚回収
@@ -608,26 +608,21 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
 - 世界ランキング3部門で1位
 
 ### 2018/04/05
-あたまろ氏が[**カジノ技非使用12:53:04**](http://ch.nicovideo.jp/at_lhv/blomaga/ar1465934)の記録を出し最速記録を更新。詳細は不明。
+[あたまろ](https://twitter.com/at_glv)氏が[**カジノ技非使用12:53:04**](http://ch.nicovideo.jp/at_lhv/blomaga/ar1465934)の記録を出し最速記録を更新。詳細は不明。
 
 ### 2018/04/11
-奴隷先輩氏がTwitch配信上で[**カジノ技非使用12:50:02**](http://ch.nicovideo.jp/dreisnpi/blomaga/ar1470602)の記録を出し最速記録を更新。
+[奴隷先輩](https://twitter.com/drisnpi)氏がTwitch配信上で[**カジノ技非使用12:50:02**](http://ch.nicovideo.jp/dreisnpi/blomaga/ar1470602)の記録を出し最速記録を更新。
 
 ### 2018/05/01
-けった氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の記録を出し最速記録を更新。現行最速記録である。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の記録を出し最速記録を更新。現行最速記録である。
 
 ----
 
 # 熟練度稼ぎの変遷(WIP)
 
 ## カジノ技非使用
-## カジノ技使用
-なんもわからんから誰か頼む！
 
-## 四精霊撃破
-
-<!--
-### 260戦 - 2001/03/30 おてう 21:32:20
+### 2001/03/30 - 260回 [おてう](https://twitter.com/oteu_bakusou) 21:32:20
 - ダーマ解放後195回
   - 主: 踊★5→戦★5→詩★5(剣の舞・戦いの詩)
   - マ: 羊★8→戦★5(キアリー・口笛・ウールガード・怒涛の羊・峰打ち)
@@ -638,18 +633,22 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
   - メ: -
   - ア: 戦★5→踊30(剣の舞)
 
-### 213戦 - 2011/02/27 くねお 13:44:23
+### 2011/02/27 - 213回 [くねお](https://twitter.com/kuneo_x) 13:44:23
 - ダーマ解放後108回
-  - 主: 踊★5→戦★5(剣の舞)
-  - マ: 魔★6(メラミ・イオラ)
-  - ガ: 羊★5→ホ★4(キアリー・寝る・口笛・ホイミ・ベホイミ)
-- アイラ加入後75回
-  - 主: 戦★8(魔神斬り)
-  - ガ: ホ★8(ベホマラー)
-  - メ: 盗★2→船★5(突き飛ばし・キアリク)
-  - ア: 踊30→戦75★5(疾風突き・剣の舞)
+  - 主: 踊53→戦55(剣の舞)
+  - マ: 魔108(メラミ・イオラ)
+  - ガ: 羊53→ホ55(キアリー・寝る・口笛・ホイミ・ベホイミ)
+- アイラ加入後105回
+  - 主: 戦105(魔神斬り)
+  - ガ: ホ105(ベホマラー)
+  - メ: 盗30→船75(突き飛ばし・キアリク)
+    - 魔105(ルカニ・メラミ・イオラ) by [いちご](https://twitter.com/ichigo_rta) 13:34:52
+  - ア: 踊30→戦75(疾風突き・剣の舞)
 
-### 183戦 - 2011/03/10 nichi 中断あり14:52:33
+
+
+
+### 2011/03/10 - 183回 [nichi](http://nichi322.blog52.fc2.com/) 中断あり14:52:33
 - ダーマ解放後177回
   - 主: 踊53→戦124(剣の舞)
   - マ: 羊135→盗17(キアリー・寝る・口笛・怒涛の羊・突き飛ばし)
@@ -657,20 +656,30 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
 - 道中6回
   - 主: 戦6回(魔神斬り)
 
-### 183戦 - 2014/09/08 けった 13:07:22
-- ダーマ解放後109回
-  - 主: 踊★5→戦★5(剣の舞)
-  - マ: 魔★6(メラミ・イオラ)
-  - ガ: 盗★2→ホ★6(突き飛ばし・ホイミ・ベホイミ・ベホマ)
-- 道中6回
-  - 主: 戦6回
-- アイラ加入後68回
-  - 主: 戦★8(魔神斬り)
-  - ガ: ホ★8(ベホマラー)
-  - メ: リ★4(ひゃくれつなめ)
-  - ア: 戦★5→踊30(剣の舞)
+183回稼ぎの走りか。道中狩り6戦
 
-### 458戦 - 2011/02/26 steel 18:46:18
+### 2014/09/08 - 183回 [けった](https://twitter.com/ketta0503) 13:07:22
+- ダーマ解放後109回
+  - 主: 踊53→戦56(剣の舞)
+  - マ: 魔109(メラミ・イオラ)
+  - ガ: 盗17→ホ92(突き飛ばし・ホイミ・ベホイミ・ベホマ)
+- 道中6回
+  - 主: 戦6
+- アイラ加入後68回
+  - 主: 戦68(魔神斬り)
+  - ガ: ホ68(ベホマラー)
+  - メ: リ68(ひゃくれつなめ)
+  - ア: 戦35→踊33(剣の舞)
+
+
+## カジノ技使用
+なんもわからんから誰か頼む！
+
+## 四精霊撃破
+
+### 2002/09/28 - ?回 [おてう](https://twitter.com/oteu_bakusou) 21:59:00
+
+### 2011/02/26 - 458回 [steel](https://twitter.com/steel_dqrta) 18:46:18
 - ダーマ解放後108回
   - 主: 踊53→戦55(剣の舞)
   - マ: 魔108(メラミ・イオラ)
@@ -681,7 +690,7 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
   - メ: プ350(アストロン・体当たり・ベホマラー・ザオリク・ベホマズン・ビッグバン・完全耐性)
   - ア: 船75→踊82→戦110(キアリク・剣の舞・魔神斬り)
 
-### 460戦 - 2013/12/23 steel 16:30:45
+### 2013/12/23 - 460回 [steel](https://twitter.com/steel_dqrta) 16:30:45
 - ダーマ解放後110回
   - 主: 踊53→戦57(剣の舞)
   - マ: 魔110(メラミ・イオラ)
@@ -692,7 +701,7 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
   - メ: プ350(アストロン・体当たり・ザオリク・ベホマズン・ビッグバン・完全耐性)
   - ア: 羊52→踊30→戦108→船75(口笛・剣の舞・魔神斬り・体当たり・キアリク・かもめ返し)
 
-### 459戦 - 2015/10/31 ping値 16:22:00
+### 2015/10/31 - 459回 ping値 16:22:00
 - ダーマ解放後109回
   - 主: 踊53→戦56(剣の舞)
   - マ: 魔109(メラミ・イオラ)
@@ -702,4 +711,3 @@ Highspirits氏が[Almost 100% run](https://pastebin.com/dS8VqmXp)を考案し北
   - ガ: 羊52→魔70→ホ68→船75→亀85(口笛・ラリホーマ・ベホマラー・キアリク・スクルト・バイキルト)
   - メ: プ350(アストロン・体当たり・ザオリク・ベホマズン・ビッグバン・完全耐性)
   - ア: 船75→踊30→戦245(体当たり・キアリク・剣の舞・魔神斬り)
--->
