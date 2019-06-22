@@ -118,10 +118,11 @@ end
 
 def main
   # チェックサム
+  puts"Checksum:"
   MOD_DEFS.each{|region, hex|
     bin = hex2bin(hex)
     checksum = DQ7.checksum(bin[0...124])
-    puts "%x..%x: %s"%[region.first, region.last, bin2hex([checksum].pack("l*"))]
+    puts "  %x..%x: %s"%[region.first, region.last, bin2hex([checksum].pack("l*"))]
   }
   # アニメティカの入力形式
   ams = mods2AnimeMakers(MOD_DEFS)
@@ -130,7 +131,9 @@ def main
     puts"  (%3d,%3d): %02X" % [x, y, b]
   }
 
-  modify_memcard() if $MODIFY_MEMCARD
+  if $MODIFY_MEMCARD
+    modify_memcard() 
+  end
 end
 
 main()
