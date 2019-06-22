@@ -1,14 +1,14 @@
-# ƒƒ‚ƒŠ[ƒJ[ƒh‚ğ‰üâ‚‚·‚é‚©
+# ãƒ¡ãƒ¢ãƒªãƒ¼ã‚«ãƒ¼ãƒ‰ã‚’æ”¹ç«„ã™ã‚‹ã‹
 $MODIFY_MEMCARD = false
-# ƒƒ‚ƒŠ[ƒJ[ƒh‚ÌƒoƒCƒiƒŠ‚ÌêŠ
-MEMCARD = "C:/salon/game/NO$PSX/MEMCARD/_01_2_A_.mcd"
+# ãƒ¡ãƒ¢ãƒªãƒ¼ã‚«ãƒ¼ãƒ‰ã®ãƒã‚¤ãƒŠãƒªã®å ´æ‰€
+MEMCARD = "C:/NO$PSX/MEMCARD/_01_2_A_.mcd"
 
 module DQ7
   # from https://ja.wikipedia.org/wiki/%E5%B7%A1%E5%9B%9E%E5%86%97%E9%95%B7%E6%A4%9C%E6%9F%BB#CRC-32
   @@checksum_poly = 0x04c11db7
   @@checksum_table = []
 
-  # ƒ`ƒFƒbƒNƒTƒ€‚Ìƒe[ƒuƒ‹‚Ì\’z
+  # ãƒã‚§ãƒƒã‚¯ã‚µãƒ ã®ãƒ†ãƒ¼ãƒ–ãƒ«ã®æ§‹ç¯‰
   def self.init_checksum_table
     @@checksum_table = (0...256).map{|i|
       8.times.inject(i << 24){|c, _|
@@ -17,7 +17,7 @@ module DQ7
     }
   end
 
-  # ƒoƒCƒiƒŠ‚Ìæ“ª‚©‚ç124ƒoƒCƒg–Ú‚Ü‚Å‚Ìƒ`ƒFƒbƒNƒTƒ€‚ğ•Ô‚·
+  # ãƒã‚¤ãƒŠãƒªã®å…ˆé ­ã‹ã‚‰124ãƒã‚¤ãƒˆç›®ã¾ã§ã®ãƒã‚§ãƒƒã‚¯ã‚µãƒ ã‚’è¿”ã™
   def self.checksum(bin, limit124 = true)
     bin2 = limit124 ? bin[0...124] : bin
     c = bin2.bytes.inject(0xffffffff){|c, b|
@@ -26,7 +26,7 @@ module DQ7
     ~c & 0xffffffff
   end
 
-  # ƒoƒCƒiƒŠ‚Ìæ“ª‚©‚ç124ƒoƒCƒg‚É4ƒoƒCƒg‚Ìƒ`ƒFƒbƒNƒTƒ€‚ğ’Ç‰Á‚·‚éBŒ³‚ÌƒoƒCƒiƒŠ‚Ì125ƒoƒCƒg–ÚˆÈ~‚Í–³‹‚³‚ê‚éB
+  # ãƒã‚¤ãƒŠãƒªã®å…ˆé ­ã‹ã‚‰124ãƒã‚¤ãƒˆã«4ãƒã‚¤ãƒˆã®ãƒã‚§ãƒƒã‚¯ã‚µãƒ ã‚’è¿½åŠ ã™ã‚‹ã€‚å…ƒã®ãƒã‚¤ãƒŠãƒªã®125ãƒã‚¤ãƒˆç›®ä»¥é™ã¯ç„¡è¦–ã•ã‚Œã‚‹ã€‚
   def self.append_checksum(bin, limit124 = true)
     bin2 = limit124 ? bin[0...124] : bin
     checksum = self.checksum(bin2)
@@ -88,7 +88,7 @@ D0 07 08 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00
 ",
-# ‚±‚Á‚¿ATHEEND‚©‚ç’¼ÚÄŠJ‚·‚é‚Æƒ`ƒFƒbƒNƒTƒ€ŒvZ‚³‚ê‚Ä‚È‚¢H
+# ã“ã£ã¡ã€THEENDã‹ã‚‰ç›´æ¥å†é–‹ã™ã‚‹ã¨ãƒã‚§ãƒƒã‚¯ã‚µãƒ è¨ˆç®—ã•ã‚Œã¦ãªã„ï¼Ÿ
 #   0x4e00...0x4e7f => "
 # 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 # 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -100,14 +100,14 @@ D0 07 08 00 00 00 00 00 00 00 00 00 00 00 00 00
 # 00 00 00 00 00 00 00 00 00 00 00 00
 # ",
 }
-# ƒ`ƒFƒbƒNƒTƒ€‚ğ‚¿‚á‚ñ‚Æ‚·‚é
+# ãƒã‚§ãƒƒã‚¯ã‚µãƒ ã‚’ã¡ã‚ƒã‚“ã¨ã™ã‚‹
 MOD_DEFS.transform_values!{|hex|
   bin = hex2bin(hex)
   bin = DQ7.append_checksum(bin)
   bin2hex(bin)
 }
 
-# ƒƒ‚ƒŠ[ƒJ[ƒh‰üâ‚
+# ãƒ¡ãƒ¢ãƒªãƒ¼ã‚«ãƒ¼ãƒ‰æ”¹ç«„
 def modify_memcard
   memcard = IO.binread(MEMCARD)
   MOD_DEFS.each{|region, hex|
@@ -117,13 +117,13 @@ def modify_memcard
 end
 
 def main
-  # ƒ`ƒFƒbƒNƒTƒ€
+  # ãƒã‚§ãƒƒã‚¯ã‚µãƒ 
   MOD_DEFS.each{|region, hex|
     bin = hex2bin(hex)
     checksum = DQ7.checksum(bin[0...124])
     puts "%x..%x: %s"%[region.first, region.last, bin2hex([checksum].pack("l*"))]
   }
-  # ƒAƒjƒƒeƒBƒJ‚Ì“ü—ÍŒ`®
+  # ã‚¢ãƒ‹ãƒ¡ãƒ†ã‚£ã‚«ã®å…¥åŠ›å½¢å¼
   ams = mods2AnimeMakers(MOD_DEFS)
   puts "AnimeMaker:"
   ams.each{|x, y, b|
