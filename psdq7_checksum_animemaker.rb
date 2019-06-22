@@ -128,7 +128,7 @@ def main
   ams = mods2AnimeMakers(MOD_DEFS)
   puts "AnimeMaker:"
   ams.each{|x, y, b|
-    puts"  %02X: (%3d,%3d): " % [b, x, y]
+    puts"  %02X: (%3d,%3d)" % [b, x, y]
   }
 
   if $MODIFY_MEMCARD
