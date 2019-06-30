@@ -1,4 +1,4 @@
-# [PS版DQ7 セーブデータ改竄RTA in 2:49](https://www.twitch.tv/videos/445916710)
+# [PS版DQ7 セーブデータ改竄RTA in 2:49](https://www.youtube.com/watch?v=Z8kzHDMWfuQ)
 
 **詳しくは[こっち](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h05m05s.md)。**
 
@@ -68,7 +68,7 @@ AnimeMaker:
 - [3分を切った](https://www.youtube.com/watch?v=mHeh0wc6l7Y)次の目標として[アンキモTAのペカレコ最速記録である2:55](https://peca.nemusg.com/index.php?cmd=read&page=Peercast%20Record%2F%C8%FE%CC%A3%A4%B7%A4%F3%A4%DC%20%B5%E6%B6%CB%A4%CE%A5%E1%A5%CB%A5%E5%A1%BC%BB%B0%CB%DC%BE%A1%C9%E9)を設定していたが、それを切ったのみならず2:50まで切れたのでかなり満足。
 - 現状、2:40切りは全く見えない。
 
-### チェックサム0の色塗り候補
+### チェックサム0の塗り方
 
 `0x4180..0x41ff`のうち、以下のアドレスの中身は固定。これら以外は好きに変更して良い(はず)  
 ただし`0x41fc..0x41ff`には`0x4180..0x41fb`のバイナリのチェックサムを書き込む。
@@ -105,7 +105,7 @@ AnimeMaker:
   07: ( 79, 27)
 ```
 
-#### [必須マス以外は07のみ塗る](https://github.com/pingval/DQ7/blob/master/checksum0-07only.txt)
+#### [必須マス以外で使う色は07のみ](https://github.com/pingval/DQ7/blob/master/checksum0-07only.txt)
 
-がんばって調べてみたが、塗るマスが多くなってしまうせいか、自分が少し試した限りではあまり速くなかった。
+がんばって調べてみたが、塗るマスが多くなってしまうせいか、自分が少し試した限りではあまり速くならなかった。
 
