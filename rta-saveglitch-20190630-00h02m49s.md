@@ -71,14 +71,14 @@ AnimeMaker:
 ### チェックサム0になる塗り方
 
 `0x4180..0x41ff`のうち、以下のアドレスの中身は固定。これら以外は好きに変更して良い(はず)  
-ただし`0x41fc..0x41ff`には`0x4180..0x41fb`のバイナリのチェックサムを書き込む。  
-チェックサムのアルゴリズムはBZIP2のCRC32と同じで、[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
 ```
 0x4180: 00 or 01
 0x4181..0x4186: 00 00 00 00 00 00
 0x4190..0x4193: d0 07 08 00
 0x41ae..0x41af: 24 07
 ```
+`0x41fc..0x41ff`には`0x4180..0x41fb`のバイナリのチェックサムを書き込む。  
+チェックサムのアルゴリズムはBZIP2のCRC32と同じで、[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
 
 #### [塗るマスの数 < 9 && 使う色数 < 7](https://github.com/pingval/DQ7/blob/master/checksum0.txt)
 
