@@ -1,4 +1,4 @@
-# [PS版DQ7 セーブデータ改竄RTA in 3:16](https://www.twitch.tv/videos/443005204)
+# [PS版DQ7 セーブデータ改竄RTA in 3:16](https://www.youtube.com/watch?v=xVKnSBv1KAE)
 
 **詳しくは[こっち](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h05m05s.md)。**
 
