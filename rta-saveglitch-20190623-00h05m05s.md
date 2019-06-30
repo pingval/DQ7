@@ -1,4 +1,4 @@
-# [PS版DQ7 セーブデータ改竄RTA in 5:05](https://www.twitch.tv/videos/442725349)
+# [PS版DQ7 セーブデータ改竄RTA in 5:05](https://www.youtube.com/watch?v=oN6G7JVtApU&t=8s)
 
 **RPGツクール3内蔵のお絵かきソフトであるアニメティカをバイナリエディタ代わりに使ってセーブデータを改竄する、ぶっ壊れ系RTAです。詳しくは[こっち](#参考)。**
 
