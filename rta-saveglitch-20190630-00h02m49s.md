@@ -75,7 +75,7 @@ AnimeMaker:
 0x4180: 00 or 01
 0x4181..0x4186: 00 00 00 00 00 00
 0x4190..0x4193: d0 07 08 00
-0x41ae..0x41af: 24 07 ;; ロード後に再開するマップ
+0x41ae..0x41af: 24 07 ;; ロード後に再開するマップ(デバッグルームのどこでもルーラにおける「THEEND」)
 0x41fc..0x41ff: 0x4180..0x41fb のバイナリのチェックサム
 ```
 チェックサムのアルゴリズムはBZIP2のCRC32と同じで、[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
