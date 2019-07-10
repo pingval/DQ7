@@ -78,7 +78,7 @@ AnimeMaker:
 0x41ae..0x41af: 24 07 ;; ロード後に再開するマップ(デバッグルームのどこでもルーラにおける「THEEND」)
 0x41fc..0x41ff: 0x4180..0x41fb のバイナリのチェックサム
 ```
-チェックサムのアルゴリズムはBZIP2のCRC32と同じで、[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
+チェックサムを返すサブルーチンのアドレスは`8008c5a4..8008c608`。アルゴリズムはCRC32/BZIP2。[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
 
 #### [塗るマスの数 < 9 && 使う色数 < 7](https://github.com/pingval/DQ7/blob/master/checksum0.txt)
 
