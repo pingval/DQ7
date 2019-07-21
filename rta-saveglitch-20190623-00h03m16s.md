@@ -1,6 +1,6 @@
 # [PS版DQ7 セーブデータ改竄RTA in 3:16](https://www.youtube.com/watch?v=xVKnSBv1KAE)
 
-**詳しくは[こっち](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h05m05s.md)。**
+**詳しくは[こっち](./rta-saveglitch-20190623-00h05m05s.md)。**
 
 - プレイ日時: 2019年06月23日
 - 計測区間: 本体の電源投入からTHE ENDの羽ペン消滅まで
@@ -14,7 +14,7 @@
 
 ----
 
-## [自分の5:05](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h05m05s.md)からの変更点など
+## [自分の5:05](./rta-saveglitch-20190623-00h05m05s.md)からの変更点など
 
 - なんとなくコントローラをアナ振IIから純正PSコンに変更。
 - アニメティカの最後の圧縮セーブ終了を待たず「セーブ中 残り 1ブロック」と表示された瞬間にリセットすることで約2s短縮。
