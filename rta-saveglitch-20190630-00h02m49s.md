@@ -1,6 +1,6 @@
 # [PS版DQ7 セーブデータ改竄RTA in 2:49](https://www.youtube.com/watch?v=Z8kzHDMWfuQ)
 
-**詳しくは[こっち](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h05m05s.md)。**
+**詳しくは[こっち](./rta-saveglitch-20190623-00h05m05s.md)。**
 
 - プレイ日時: 2019年06月30日
 - 計測区間: 本体の電源投入からTHE ENDの羽ペン消滅まで
@@ -14,7 +14,7 @@
 
 ----
 
-## [自分の3:16](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h03m16s.md)からの変更点など
+## [自分の3:16](./rta-saveglitch-20190623-00h03m16s.md)からの変更点など
 
 - お絵かき画面に入る前のカーソル位置がそのままお絵かき画面に持ち越されるので、予めカーソルをRGBバーのツマミの位置に持っていく(「タイトルをかく」の「タ」と「イ」の間)。
 - メモリーカードを挿したままDQ7を起動していたのを、起動直後に抜いてエニックスのロゴ表示後に改めて挿すように変更。[DQ7の場合、挿したままPS2を起動すると最大で約1.8sロスするため](https://twitter.com/pingval/status/1021777170773897218)。
@@ -80,7 +80,7 @@ AnimeMaker:
 ```
 チェックサムを返すサブルーチンのアドレスは`8008c5a4..8008c608`。アルゴリズムはCRC32/BZIP2。[crchack](https://github.com/resilar/crchack)に渡すオプションは`-w32 -p04c11db7 -iffffffff -xffffffff`。
 
-#### [塗るマスの数 < 9 && 使う色数 < 7](https://github.com/pingval/DQ7/blob/master/checksum0.txt)
+#### [塗るマスの数 < 9 && 使う色数 < 7](./checksum0.txt)
 
 今回のプレイでは8マス6色パターンのひとつを用いた。  
 以下の9マス5色パターンも見た感じよさそう。
@@ -106,6 +106,6 @@ AnimeMaker:
   07: ( 79, 27)
 ```
 
-#### [必須マス以外で使う色は07のみ](https://github.com/pingval/DQ7/blob/master/checksum0-07only.txt)
+#### [必須マス以外で使う色は07のみ](./checksum0-07only.txt)
 
 がんばって調べてみたが、塗るマスが多くなってしまうせいか、自分が少し試した限りではあまり速くならなかった。
