@@ -17,6 +17,7 @@
   - [2016年](#2016年)
   - [2017年](#2017年)
   - [2018年 - 12:50切り争いは突然に](#2018年---1250切り争いは突然に)
+  - [2019年 - PSゲーを破壊するもの](#2019年---psゲーを破壊するもの)
 - [熟練度稼ぎの変遷](#熟練度稼ぎの変遷)
   - [カジノ技非使用](#カジノ技非使用)
   - [カジノ技使用](#カジノ技使用)
@@ -609,6 +610,69 @@ Emily氏がSegmentedではなくSingle-Segment(≒RTA)で[**北米版16:27:57**]
 
 ### 2018/05/01
 [けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の記録を出し最速記録を更新。現行最速記録である。
+
+## 2019年 - PSゲーを破壊するもの
+
+### 2019/06/01
+[とどトド](https://twitter.com/todotodomeuta)氏が[**セーブデータ改竄14:04**](https://www.nicovideo.jp/watch/sm35205981)の記録を出す。  
+セーブーデータ改竄カテゴリでは、**アニメティカ(RPGツクール3内蔵のお絵描きソフト)のバイナリエディタ機能**と**セーブ中のメモリーカード抜き差し**を駆使して、メモリーカードを改竄しエンディングに直行できるセーブデータを捏造する。具体的には、ロード後の再開ポイントとしてエンディングを指定している。**これは殆どのPSゲーで使える方法でもある**。
+
+参考:
+- [RPGツクール3を使ったPS1セーブデータの改ざん方法 | RTAPlay!](https://rta-play.info/tool/save-glitch/)
+- [TASさんがぼくなつを1泊2日でクリア（アニメティカ使用） - YouTube](https://www.youtube.com/watch?v=5oKdSvFTdC0)
+
+### 2019/06/05
+[くらっちょ](https://twitter.com/Clutchon)氏がニコ生配信上で[**セーブデータ改竄12:45**](https://twitter.com/Clutchon/status/1135936583083761664)の記録を出し最速記録を更新。
+
+同日、[とどトド](https://twitter.com/todotodomeuta)氏が[**セーブデータ改竄8:17**](https://www.nicovideo.jp/watch/sm35229544)の記録を出し最速記録を更新。
+
+### 2019/06/23
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄3:16**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190623-00h03m16s.md)の記録を出し最速記録を更新。  
+以下の点が特徴。
+- セーブデータのチェックサムの仕様を解明。
+- MapIDを「キーファの手紙」から「THE END画面」へ変更。
+
+<!-- ### 2019/06/29
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:58**](https://www.twitch.tv/videos/445747618)の記録を出し最速記録を更新。 -->
+
+### 2019/06/30
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:49**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190630-00h02m49s.md)の記録を出し最速記録を更新。チェックサムを`0`になる速い塗り方に変更した。
+
+<!-- ### 2019/08/18
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:34**](https://www.twitch.tv/videos/468875719)の記録を出し最速記録を更新。 -->
+
+<!-- ### 2019/08/31
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:25**](https://www.twitch.tv/videos/474876449)の記録を出し最速記録を更新。 -->
+
+### 2019/09/05
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:23**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190905-00h02m23s.md)の記録を出し最速記録を更新。
+  
+以下の点が特徴。
+- 無圧縮セーブ中のメモリーカード引き抜きを許容するルールへ変更。
+- PS2高速読み込みを使用。
+- より速くなるよう塗るマスを変更。
+
+// ### 2019/09/07
+// [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:21**](https://twitter.com/pingval/status/1170214428857389056)の記録を出し最速記録を更新。
+
+// ### 2019/09/08
+// [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:20**](https://www.twitch.tv/videos/478576526)の記録を出し最速記録を更新。
+
+### 2019/09/10
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:19**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190910-00h02m19s.md)の記録を出し最速記録を更新。ズーム回数を2回から1回に減らすなど塗り方を工夫。
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----
 
