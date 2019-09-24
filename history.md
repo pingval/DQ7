@@ -652,11 +652,11 @@ Emily氏がSegmentedではなくSingle-Segment(≒RTA)で[**北米版16:27:57**]
 - PS2高速読み込みを使用。
 - より速くなるよう塗るマスを変更。
 
-// ### 2019/09/07
-// [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:21**](https://twitter.com/pingval/status/1170214428857389056)の記録を出し最速記録を更新。
+<!-- ### 2019/09/07
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:21**](https://twitter.com/pingval/status/1170214428857389056)の記録を出し最速記録を更新。 -->
 
-// ### 2019/09/08
-// [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:20**](https://www.twitch.tv/videos/478576526)の記録を出し最速記録を更新。
+<!-- ### 2019/09/08
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:20**](https://www.twitch.tv/videos/478576526)の記録を出し最速記録を更新。 -->
 
 ### 2019/09/10
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:19**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190910-00h02m19s.md)の記録を出し最速記録を更新。ズーム回数を2回から1回に減らすなど塗り方を工夫。
