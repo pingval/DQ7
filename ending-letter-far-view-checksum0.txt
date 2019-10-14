@@ -4513,7 +4513,8 @@ AnimeMaker(used block: #2):
   08: ( 77, 27)
   21: ( 78, 27)
   07: ( 79, 27)
-----Count:
+----
+Count:
    9
 Unique Count:
    6
