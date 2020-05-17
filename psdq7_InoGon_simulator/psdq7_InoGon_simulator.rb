@@ -165,7 +165,7 @@ end
 
 # log_timing: none, battle, turn, action, result
 $option = {
-  N: 10000,
+  N: 1000,
   log_timing: :turn,
   party: Party_Panda,
   mari_lv11: false,

@@ -12,7 +12,7 @@
 
 # PS版DQ7 イノゴン戦シミュレータ
 
-PS版DQ7RTAにおいて最も勝率が低いとされているイノゴン戦の勝率を楽して見極めるために**今更**作ったやつ。[RGPツクールVX Ace](https://store.steampowered.com/app/220700/RPG_Maker_VX_Ace/)のスクリプトRGSS3を元にしています。
+PS版DQ7RTAにおいて最も勝率が低いとされている戦闘であるイノゴン戦の勝率を楽して見極めるために**今更**作ったやつ。[RGPツクールVX Ace](https://store.steampowered.com/app/220700/RPG_Maker_VX_Ace/)のスクリプトRGSS3を元にしています。
 
 現在、[自分の装備配分](https://github.com/pingval/DQ7/raw/master/psdq7-status.zip)＆[戦術](https://github.com/pingval/DQ7/blob/master/pingval-psdq7-Aira183-chart.txt#L1649)のみ対応(大元の[腹黒パンダ氏の](https://harapan.exblog.jp/15510551/)とはちょっと違う)。
 
