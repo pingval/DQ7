@@ -933,7 +933,7 @@ Special Thanks to [spice](https://twitter.com/spice_ta)!
 <a id="markdown-四精霊撃破カジノ技非使用" name="四精霊撃破カジノ技非使用"></a>
 ## 四精霊撃破(カジノ技非使用)
 
-### 550回 - 2002/09/28 - [おてう 21:59:00](http://homepage2.nifty.com/oteu/diary/dq7rta/7rta_rep0.html)
+### 550回 - 2002/09/28 - [おてう 21:59:00](https://oteu.net/dq/7rta_rep0.html)
 
 神様戦に向けた熟練度稼ぎは「完全耐性持ちの仁王立ち役」を作るためのメルビンのプラチナキング350戦が軸となる。  
 また、補助火力のサムシンを召喚可能なLv35以上まで主人公のLvを上げるレベリングを兼ねたものになる。
