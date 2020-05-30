@@ -575,6 +575,10 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2015/02/09
 [Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:57:11**](https://www.speedrun.com/dqvii/run/pyd36lqz)の記録を出し最速記録を更新。
 
+### 2015/02/13
+月平氏が[**ゲーム内時間TAでThe End12:58**](http://quistis.s7.xrea.com/garden2.html#tukihei)の記録を出す。  
+[当時のカジノ技非使用RTA最速記録]((http://pingval.g1.xrea.com/dq7/rta-12h58m42s/))とほぼ同タイム。最終セーブは12:20。
+
 ### 2015/04/20
 [Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:44:30**](https://www.speedrun.com/dqvii/run/jy95e02z)の記録を出し最速記録を更新。
 
