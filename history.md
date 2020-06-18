@@ -1,4 +1,4 @@
-<!-- TOC depthFrom:1 depthTo:2 insertAnchor:true orderedList:false -->
+<!-- TOC depthFrom:1 depthTo:2 insertAnchor:false orderedList:false -->
 
 - [PS版DQ7RTAの歴史](#ps版dq7rtaの歴史)
   - [2000年 - たったひとりの戦略構築](#2000年---たったひとりの戦略構築)
@@ -18,6 +18,7 @@
   - [2017年](#2017年)
   - [2018年 - 12:50切り争いは突然に](#2018年---1250切り争いは突然に)
   - [2019年 - DQ7をぶっ壊す](#2019年---dq7をぶっ壊す)
+  - [2020年](#2020年)
 - [熟練度稼ぎの変遷](#熟練度稼ぎの変遷)
   - [カジノ技非使用](#カジノ技非使用)
   - [カジノ技使用](#カジノ技使用)
@@ -27,7 +28,6 @@
 
 ----
 
-<a id="markdown-ps版dq7rtaの歴史" name="ps版dq7rtaの歴史"></a>
 # PS版DQ7RTAの歴史
 
 [アークザラッドRTAの歴史](https://gist.github.com/yagamuu/3b6023e61d9ca1924fde1565052f58d7)リスペクト。
@@ -48,7 +48,6 @@
 
 -->
 
-<a id="markdown-2000年---たったひとりの戦略構築" name="2000年---たったひとりの戦略構築"></a>
 ## 2000年 - たったひとりの戦略構築
 ### 2000/08/26
 『[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88VII_%E3%82%A8%E3%83%87%E3%83%B3%E3%81%AE%E6%88%A6%E5%A3%AB%E3%81%9F%E3%81%A1)』が発売される。フリーズの多さで悪名高い、いわゆる初期版である。
@@ -65,9 +64,8 @@
 ### 2000/12/10
 
 [euglenaε](http://www.geocities.jp/euglena_epsilon/)氏が[**ゲーム内時間TAで15:49**](http://web.archive.org/web/20070818081640/http://www.geocities.jp/euglena_epsilon/game/dq7ta0.html)の記録を出す。  
-[おてう](https://twitter.com/oteu_bakusou)氏のRTAに先立つやり込み。常からくり兵の鉄の斧ドロップ(1/128)を引くため210回かけている。
+[おてう](https://twitter.com/oteu_bakusou)氏のRTAに先立つやり込み。通常からくり兵の鉄の斧ドロップ(1/128)を引くため210回かけている。
 
-<a id="markdown-2001年" name="2001年"></a>
 ## 2001年
 
 ### 2001/01/10
@@ -91,7 +89,6 @@ RTAの戦略が進歩した現在は、これより速い記録がRTAで出る�
 ### 2001/11/01
 北米版である『Dragon **Warrior** VII』が発売される。
 
-<a id="markdown-2002年" name="2002年"></a>
 ## 2002年
 ### 2002/09/28
 [おてう](https://twitter.com/oteu_bakusou)氏が[**四精霊撃破RTA21:59:00**](https://oteu.net/dq/7rta_rep0.html)の記録を出す。初めて行われた四精霊撃破RTAである。  
@@ -104,7 +101,6 @@ RTAの戦略が進歩した現在は、これより速い記録がRTAで出る�
 - [あのDQ7をたった1日で裏ボスまで全部クリア（第三期熟練賞受賞作品） -応募作品-](http://ultimagarden.net/ultima/novel.cgi?4=104237772272=&page=0)
 - [第三期投票結果発表](http://ultimagarden.net/result-03.html)
 
-<a id="markdown-2005年---廉価版の登場" name="2005年---廉価版の登場"></a>
 ## 2005年 - 廉価版の登場
 ### 2005/02/03
 PS one Books版が発売される。アルティメットヒッツ版と併せて廉価版と呼ばれている。フリーズ問題の改善・過去砂漠の国フラグ追加(+約1m30s)が特徴。  
@@ -117,7 +113,6 @@ PS one Books版が発売される。アルティメットヒッツ版と併せ�
 [おてう](https://twitter.com/oteu_bakusou)氏が[**16:52:00**](http://www.rta.jp/dq1to8/dq7.html)の記録を出し最速記録を更新。[ドラクエシリーズ8作連続タイムアタック](http://www.rta.jp/dq1to8/)の一環として行われた。  
 PS2とPS one Books版が使用されている。前回の戦略からはリートルードランキングをカット。過去プロビナ自殺ルーラを採用。
 
-<a id="markdown-2006年---2人目のプレイヤー" name="2006年---2人目のプレイヤー"></a>
 ## 2006年 - 2人目のプレイヤー
 ### 2006/07/20
 アルティメットヒッツ版が発売される。
@@ -132,7 +127,6 @@ PS2とPS one Books版が使用されている。前回の戦略からはリー�
 ### 2006/12/23
 [シン(hiro)](https://twitter.com/hiro25255)氏が[**15:54:??**](http://web.archive.org/web/20190306212528/http://sports.geocities.jp/yamachan1631/last-dq7top.html)の記録を出し最速記録を更新。
 
-<a id="markdown-2008年---新戦略の萌芽" name="2008年---新戦略の萌芽"></a>
 ## 2008年 - 新戦略の萌芽
 ### 2008/08/06
 [あう](https://twitter.com/aukichi)氏が[17:24:35](https://blog.goo.ne.jp/aukichi/e/3fdb76f327d75161c2dd616c97558df5)の記録を出す。7年目にしてようやっと3人目以下略。  
@@ -149,13 +143,11 @@ PS2とPS one Books版が使用されている。前回の戦略からはリー�
 [りお](https://twitter.com/rio_ccc)氏がPeerCast配信上で[32:23:11](http://listeners.reep.info/index.php?cmd=read&page=Peercast%20Record%2FDQ7)(※計測区間が少し短い)の記録を出す。  
 恐らく、初めて映像配信上で出された記録である。戦略は[おてう](https://twitter.com/oteu_bakusou)氏と同じ。
 
-<a id="markdown-2009年" name="2009年"></a>
 ## 2009年
 ### 2009/12/28
 Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_45_07.html)の記録を出す。メダル0枚・移民0人戦略としては初の記録である。  
 過去ダーマのカジノで稼いでダーマを安定させる。魔神斬り2枚でDisc1時点でLv30まで経験値を稼ぐ戦略。
 
-<a id="markdown-2010年---age-of-くねお" name="2010年---age-of-くねお"></a>
 ## 2010年 - Age of くねお
 ### 2010/04/24
 [くねお](https://twitter.com/kuneo_x)氏が[ネンガル戦後自殺ルーラ](http://kuneo.blog52.fc2.com/blog-entry-930.html)を発見。  
@@ -268,7 +260,6 @@ Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_4
 ### 2010/12/14頃
 [ULTIMAGARDEN 2nd](http://ultimagarden.net/)の掲示板に[13:44:??の記録達成が報告される](http://kuneo.blog52.fc2.com/blog-entry-1139.html)が、のちに虚偽の報告と判明する。
 
-<a id="markdown-2011年---14時間切りと2人目の四精霊撃破プレイヤー" name="2011年---14時間切りと2人目の四精霊撃破プレイヤー"></a>
 ## 2011年 - 14時間切りと2人目の四精霊撃破プレイヤー
 
 ### 2011/01/02
@@ -366,7 +357,6 @@ Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_4
 [nichi](http://nichi322.blog52.fc2.com/)氏が「にげる」コマンドによる補助呪文の永続技・天上の神殿の回復ポイントの有用性(ルーラですぐ行けてタダで蘇生できる)を公開。  
 後者は現在もラスダン全滅時に利用されている。
 
-<a id="markdown-2012年---縦移動の発見" name="2012年---縦移動の発見"></a>
 ## 2012年 - 縦移動の発見
 
 ### 2012/02/10
@@ -394,7 +384,6 @@ PS版DQ7とほぼ同じエンジンのPS版DQ4でも縦移動は短縮になる�
 [allgreen](https://www.nicovideo.jp/user/1322210)氏が[ウッドパルナinまでのTAS動画](https://www.nicovideo.jp/watch/sm18964662)を公開。  
 氏はSFC版DQ1,2,3,6のTASを完成させた実績があるため期待されたが、残念ながらTAS自体の続きは現在に至るまで投稿されていない。
 
-<a id="markdown-2013年---183回稼ぎとカジノ技" name="2013年---183回稼ぎとカジノ技"></a>
 ## 2013年 - 183回稼ぎとカジノ技
 
 ### 2013/01/29
@@ -476,7 +465,6 @@ PS2版DQ5のカジノ技のようなセーブ＆リセットは要しない。
 - 神様戦でメルビンを固めるのはスカラではなくスクルト。ガボは怒涛の羊ではなく遠吠えで攻める。
 - 神様戦直前でセーブしておき、神様戦後の移動先の選択肢でラスボス前に飛ばしてもらって自殺することにより神様までの道のりをショートカット。2回で約6m40sの短縮。
 
-<a id="markdown-2014年---13時間切りと海外勢の登場" name="2014年---13時間切りと海外勢の登場"></a>
 ## 2014年 - 13時間切りと海外勢の登場
 
 ### 2014/01/23
@@ -563,7 +551,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2014/12/06
 [Highspirits](https://twitter.com/highspirits_1)氏が[北米版17:18:06](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1_52.html#dragon_warrior_vii_ps1_52)の記録を出す。氏は[筆者](https://twitter.com/pingval)のプレイを参考にした。
 
-<a id="markdown-2015年" name="2015年"></a>
 ## 2015年
 
 ### 2015/01/26
@@ -577,7 +564,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 
 ### 2015/02/13
 月平氏が[**ゲーム内時間TAでThe End12:58**](http://quistis.s7.xrea.com/garden2.html#tukihei)の記録を出す。  
-[当時のカジノ技非使用RTA最速記録]((http://pingval.g1.xrea.com/dq7/rta-12h58m42s/))とほぼ同タイム。最終セーブは12:20。
+[当時のカジノ技非使用RTA最速記録](http://pingval.g1.xrea.com/dq7/rta-12h58m42s/)とほぼ同タイム。最終セーブは12:20。
 
 ### 2015/04/20
 [Highspirits](https://twitter.com/highspirits_1)氏が[**北米版15:44:30**](https://www.speedrun.com/dqvii/run/jy95e02z)の記録を出し最速記録を更新。
@@ -599,7 +586,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 [筆者](https://twitter.com/pingval)が[四精霊撃破RTAの詳細な攻略チャート](http://pingval.g1.xrea.com/dq7/rta-4spirits-chart/)を公開。
 -->
 
-<a id="markdown-2016年" name="2016年"></a>
 ## 2016年
 ### 2016/01/01
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**四精霊撃破(カジノ技非使用)16:14:03**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h14m03s/)の記録を出し最速記録を更新。現行最速記録である。  
@@ -635,7 +621,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 メダル取るから寄り道にならない([おてう](https://twitter.com/oteu_bakusou))→寄り道しない([くねお](https://twitter.com/kuneo_x))→する([てか](https://twitter.com/teka_shi))→やっぱりしない([spice](https://twitter.com/spice_ta))、という歴史の流れ。
 - ガボの最終装備が水の羽衣(買値:16800, 耐性:炎30)ではなく厚手の鎧(買値:9500, 耐性:炎15氷15)。
 
-<a id="markdown-2017年" name="2017年"></a>
 ## 2017年
 
 <!--
@@ -661,7 +646,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2017/夏頃
 記録狙い戦略において、過去エンゴウにおける主人公ルーラ習得稼ぎのカットが検討される。
 
-<a id="markdown-2018年---1250切り争いは突然に" name="2018年---1250切り争いは突然に"></a>
 ## 2018年 - 12:50切り争いは突然に
 
 ### 2018/01/20
@@ -682,7 +666,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2018/05/01
 [けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の記録を出し最速記録を更新。現行最速記録である。
 
-<a id="markdown-2019年---dq7をぶっ壊す" name="2019年---dq7をぶっ壊す"></a>
 ## 2019年 - DQ7をぶっ壊す
 
 ### 2019/06/01
@@ -733,14 +716,17 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2019/09/10
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:19**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190910-00h02m19s.md)の記録を出し最速記録を更新。ズーム回数を2回から1回に減らすなど塗り方を工夫。
 
+## 2020年
+### 2020/05/17
+[筆者](https://twitter.com/pingval)が[イノゴン戦シミュレータ](https://github.com/pingval/psdq7_InoGon_simulator)を公開。  
+RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術による勝率等の変化を、モンテカルロシミュレーションによって定量的に評価してみようという試み。
+
 ----
 
-<a id="markdown-熟練度稼ぎの変遷" name="熟練度稼ぎの変遷"></a>
 # 熟練度稼ぎの変遷
 
 2010年以前のものについては怪しいです。
 
-<a id="markdown-カジノ技非使用" name="カジノ技非使用"></a>
 ## カジノ技非使用
 
 ### 260回? - 2001/03/30 - [おてう 21:32:20](https://oteu.net/dq/dq7rta0.html)
@@ -902,7 +888,6 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 - アイラ加入後71回
   - メ: リップス41→船30(百列舐め・体当たり)
 
-<a id="markdown-カジノ技使用" name="カジノ技使用"></a>
 ## カジノ技使用
 
 Special Thanks to [spice](https://twitter.com/spice_ta)!
@@ -934,7 +919,6 @@ Special Thanks to [spice](https://twitter.com/spice_ta)!
   - メ: ドラゴスライム40→リップス41→羊12(アストロン・百列舐め・キアリー)
   - ア: 戦40→踊41→羊12(剣の舞・キアリー)
 
-<a id="markdown-四精霊撃破カジノ技非使用" name="四精霊撃破カジノ技非使用"></a>
 ## 四精霊撃破(カジノ技非使用)
 
 ### 550回 - 2002/09/28 - [おてう 21:59:00](https://oteu.net/dq/7rta_rep0.html)
