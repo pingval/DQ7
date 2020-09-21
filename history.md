@@ -32,6 +32,7 @@
 
 [アークザラッドRTAの歴史](https://gist.github.com/yagamuu/3b6023e61d9ca1924fde1565052f58d7)リスペクト。
 
+[PS版DQ7カジノ技非使用最速記録の変遷](https://docs.google.com/spreadsheets/d/1KsZrhY4O-HHvXd_JAxIEkuXyXYhKxPwSCU0Q0UHjKZw/edit?usp=sharing)ってやつもあります。
 
 <!--
 
