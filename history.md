@@ -722,6 +722,10 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 [筆者](https://twitter.com/pingval)が[イノゴン戦シミュレータ](https://github.com/pingval/psdq7_InoGon_simulator)を公開。  
 RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術による勝率等の変化を、モンテカルロシミュレーションによって定量的に評価してみようという試み。
 
+### 2020/05/29
+[おてう](https://twitter.com/oteu_bakusou)氏が、[インターネットアーカイブ](https://archive.org/)からサルベージできなかった[2001/03/30のPS版DQ7RTA 21:32:20のラップタイム](https://oteu.net/dq/dq7rta0.html)と[2002/09/28の四精霊撃破RTA 21:59:00のレポート](https://oteu.net/dq/7rta_rep0.html)を再公開する。  
+後者は情報が豊富で、転職前はガボの「かみつけ」(敵1体に通常攻撃の0.8-1.5倍のダメージ)を使っていたことなどがわかった。
+
 ### 2020/07/12
 [ウルポ](https://twitter.com/ulpo2553)氏が、謎の神殿の炎の番人の部屋で、[炎の番人が元の位置に戻る前に部屋を出る](https://twitter.com/ulpo2553/status/1281982000811741193)ことが可能であることを発見する。スライムRTA26分を切る速いプレイヤー達も今まで見たことがなく、大きな驚きをもって受け入れられた。約3sの短縮になるが、どうやら要求される操作精度が非常に厳しく実用化は難しいようだ。  
 この技は[**けったスペシャル**](https://www.twitch.tv/rtainjapan/clip/FurtiveFunnyOtterSMOrc)(過去海底都市B1F左上のスイッチを、壺の斜め投げで押して移動距離を短縮するテク)にちなみ、**ウルポスペシャル**と名付けられた。
