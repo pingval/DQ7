@@ -736,7 +736,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 ちなみに、氏は[右下で壺の斜め投げ](https://twitter.com/at_glv/status/1289827268160708608)を行っており、元々はこれがあたまろスペシャルのつもりだったとのことだ。
 
 ### 2020/09/21
-[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:38:48**](https://github.com/gagamilky-hub/doranana/blob/master/rta-20200921-12h38m48s.md)の記録を出し最速記録を更新。マシンマスター戦で鉄の斧ドロップ(ちなみに2日連続)があったり闘技場6連戦5戦目のナプトで全滅するなど浮き沈みの激しい冒険であった。  
+[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:38:48**](https://github.com/gagamilky-hub/doranana/blob/master/rta-20200921-12h38m48s.md)の記録を出し最速記録を更新。マシンマスター戦で鉄の斧ドロップ(ちなみに2日連続)があったり闘技場6連戦5戦目のドンホセ戦で全滅するなど浮き沈みの激しい冒険であった。  
 [けった](https://twitter.com/ketta0503)氏の[12:49:48](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)から2年4ヶ月ぶり11分の大幅更新で、とうとう12時間40分切り時代の幕が開けた。  
 
 - まだらくも糸購入をカットし、みかわしの服と刃のブーメラン2本を両立
