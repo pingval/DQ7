@@ -18,7 +18,7 @@
   - [2017年](#2017年)
   - [2018年 - 12:50切り争いは突然に](#2018年---1250切り争いは突然に)
   - [2019年 - DQ7をぶっ壊す](#2019年---dq7をぶっ壊す)
-  - [2020年](#2020年)
+  - [2020年 十字キーぐりぐり時代](#2020年-十字キーぐりぐり時代)
 - [熟練度稼ぎの変遷](#熟練度稼ぎの変遷)
   - [カジノ技非使用](#カジノ技非使用)
   - [カジノ技使用](#カジノ技使用)
@@ -32,6 +32,7 @@
 
 [アークザラッドRTAの歴史](https://gist.github.com/yagamuu/3b6023e61d9ca1924fde1565052f58d7)リスペクト。
 
+[PS版DQ7カジノ技非使用最速記録の変遷](https://docs.google.com/spreadsheets/d/1KsZrhY4O-HHvXd_JAxIEkuXyXYhKxPwSCU0Q0UHjKZw/edit?usp=sharing)ってやつもあります。
 
 <!--
 
@@ -640,7 +641,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 [じゃっくそん](https://twitter.com/jackjasonb)氏が[TAS](https://www.nicovideo.jp/watch/sm30866047)を公開する。現在は炎の巨人撃破後まで投稿されている。
 
 ### 2017/05/05
-[けった](https://twitter.com/ketta0503)氏が[RTA in Japan for #C4LANJP](https://rtainjapan.net/rtaij/rta-in-japan-for-c4lanjp/)にてDQ7を走り[12:57:19](https://rtainjapan.net/schedule/game-title/dq7/)の記録を出す。  
+[けった](https://twitter.com/ketta0503)氏が[RTA in Japan for #C4LANJP](https://rtain.jp/rtaij/rta-in-japan-for-c4lanjp/)にてDQ7を走り[12:57:19](https://rtain.jp/game-title/dq7/)の記録を出す。  
 長時間RTAばかりを集めたイベントのトリで一発勝負13時間切りという快挙。
 
 ### 2017/夏頃
@@ -716,10 +717,14 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2019/09/10
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:19**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190910-00h02m19s.md)の記録を出し最速記録を更新。ズーム回数を2回から1回に減らすなど塗り方を工夫。
 
-## 2020年
+## 2020年 十字キーぐりぐり時代
 ### 2020/05/17
 [筆者](https://twitter.com/pingval)が[イノゴン戦シミュレータ](https://github.com/pingval/psdq7_InoGon_simulator)を公開。  
 RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術による勝率等の変化を、モンテカルロシミュレーションによって定量的に評価してみようという試み。
+
+### 2020/05/29
+[おてう](https://twitter.com/oteu_bakusou)氏が、[インターネットアーカイブ](https://archive.org/)からサルベージできなかった[2001/03/30のPS版DQ7RTA 21:32:20のラップタイム](https://oteu.net/dq/dq7rta0.html)と[2002/09/28の四精霊撃破RTA 21:59:00のレポート](https://oteu.net/dq/7rta_rep0.html)を再公開する。  
+後者は情報が豊富で、転職前はガボの「かみつけ」(敵1体に通常攻撃の0.8-1.5倍のダメージ)を使っていたことなどがわかった。
 
 ### 2020/07/12
 [ウルポ](https://twitter.com/ulpo2553)氏が、謎の神殿の炎の番人の部屋で、[炎の番人が元の位置に戻る前に部屋を出る](https://twitter.com/ulpo2553/status/1281982000811741193)ことが可能であることを発見する。スライムRTA26分を切る速いプレイヤー達も今まで見たことがなく、大きな驚きをもって受け入れられた。約3sの短縮になるが、どうやら要求される操作精度が非常に厳しく実用化は難しいようだ。  
@@ -727,8 +732,23 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 
 ### 2020/08/02
 [あたまろ](https://twitter.com/at_glv)氏が、過去海底都市B1Fにおいて壺を微妙な角度で投げてボタンを押すことにより、[水位を切り替えるレバーの足場に右から渡れる](https://twitter.com/at_glv/status/1289819052076982274)ことを発見する。歩数エンカの減少と(ノンストップなら)約12sの短縮が見込める。難易度も高くなく充分に実用的なテクニックだ。  
-この技もまた**あたまろスペシャル**と名付けられた……のだが、これを用いる場合、本家本元のけったスペシャルの出番はなくなってしまう。  
+この技もまた**あたまろスペシャル**と名付けられた……のだが、これを用いる場合はけったスペシャルで押すスイッチは無視できるため、本家本元のけったスペシャルの出番はなくなってしまう。  
 ちなみに、氏は[右下で壺の斜め投げ](https://twitter.com/at_glv/status/1289827268160708608)を行っており、元々はこれがあたまろスペシャルのつもりだったとのことだ。
+
+### 2020/09/21
+[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:38:48**](https://github.com/gagamilky-hub/doranana/blob/master/rta-20200921-12h38m48s.md)の記録を出し最速記録を更新。マシンマスター戦で鉄の斧ドロップ(ちなみに2日連続)があったり闘技場6連戦5戦目のドンホセ戦で全滅するなど浮き沈みの激しい冒険であった。  
+[けった](https://twitter.com/ketta0503)氏の[12:49:48](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)から2年4ヶ月ぶり11分の大幅更新で、とうとう12時間40分切り時代の幕が開けた。  
+
+- まだらくも糸購入をカットし、みかわしの服と刃のブーメラン2本を両立
+- あたまろスペシャルの導入
+- グラコス戦スカラカット
+- フエーゴの兜回収確定カット
+
+辺りが特徴か。そのほか、[会話中](https://www.youtube.com/watch?v=DbLE8GmJroY)や[戦闘中](https://twitter.com/gagaotarin/status/1256860105028431872)の十字キーぐりぐりによってメッセージ送り速度を上げ、手の疲れとHP概算を代償にしてタイムを短縮している。なんて時代だ！
+
+### 2020/12/26
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](https://ch.nicovideo.jp/kettamachine/blomaga/ar1978937)の記録を出し最速記録を更新。[RTA in Japan for #C4LANJP](https://rtain.jp/game-title/dq7/)以来の満足な結果とのこと。  
+前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていた「**彼**」の手によって約3ヶ月で破られるという結果になった。
 
 ----
 
