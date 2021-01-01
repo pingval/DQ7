@@ -749,7 +749,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 ### 2020/12/26
 [けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](https://ch.nicovideo.jp/kettamachine/blomaga/ar1978937)の記録を出し最速記録を更新。  
 [RTA in Japan for #C4LANJP](https://rtain.jp/game-title/dq7/)以来の満足な結果とのこと。  
-前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/#toc8)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていた「**彼**」の手によって約3ヶ月で破られるという結果になった。
+前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/#toc8)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていたその「**彼**」の手によって約3ヶ月で破られるという結果になった。
 
 ----
 
