@@ -18,7 +18,7 @@
   - [2017年](#2017年)
   - [2018年 - 12:50切り争いは突然に](#2018年---1250切り争いは突然に)
   - [2019年 - DQ7をぶっ壊す](#2019年---dq7をぶっ壊す)
-  - [2020年 十字キーぐりぐり時代](#2020年-十字キーぐりぐり時代)
+  - [2020年 - 十字キーぐりぐり時代](#2020年---十字キーぐりぐり時代)
 - [熟練度稼ぎの変遷](#熟練度稼ぎの変遷)
   - [カジノ技非使用](#カジノ技非使用)
   - [カジノ技使用](#カジノ技使用)
@@ -717,7 +717,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ### 2019/09/10
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**セーブデータ改竄2:19**](https://github.com/pingval/DQ7/blob/master/rta-saveglitch-20190910-00h02m19s.md)の記録を出し最速記録を更新。ズーム回数を2回から1回に減らすなど塗り方を工夫。
 
-## 2020年 十字キーぐりぐり時代
+## 2020年 - 十字キーぐりぐり時代
 ### 2020/05/17
 [筆者](https://twitter.com/pingval)が[イノゴン戦シミュレータ](https://github.com/pingval/psdq7_InoGon_simulator)を公開。  
 RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術による勝率等の変化を、モンテカルロシミュレーションによって定量的に評価してみようという試み。
@@ -747,8 +747,8 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 辺りが特徴か。そのほか、[会話中](https://www.youtube.com/watch?v=DbLE8GmJroY)や[戦闘中](https://twitter.com/gagaotarin/status/1256860105028431872)の十字キーぐりぐりによってメッセージ送り速度を上げ、手の疲れとHP概算を代償にしてタイムを短縮している。なんて時代だ！
 
 ### 2020/12/26
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](https://ch.nicovideo.jp/kettamachine/blomaga/ar1978937)の記録を出し最速記録を更新。[RTA in Japan for #C4LANJP](https://rtain.jp/game-title/dq7/)以来の満足な結果とのこと。  
-前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていた「**彼**」の手によって約3ヶ月で破られるという結果になった。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](https://ch.nicovideo.jp/kettamachine/blomaga/ar1978937)の記録を出し最速記録を更新。  
+[RTA in Japan for #C4LANJP](https://rtain.jp/game-title/dq7/)以来の満足な結果とのこと。前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/#toc8)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていた「**彼**」の手によって約3ヶ月で破られるという結果になった。
 
 ----
 
