@@ -42,10 +42,13 @@ IS_ED = [0x715..0x724].include?(MapID)
 # UNIQ_CNT_BORDER = IS_ED ? 7 : 9
 UNIQ_CNT_BORDER = 12
 
-
+# オルゴ即戦闘フラグ
 ORGO_FLAGS = ["07", "06", "de"]
+# ミミックの石2byte目
 MIMIC_2S = ["06", "de", "02"]
+# キャラ
 CHARS = ["a1", "01"]
+# ステータス
 STAUTUSES = ["00 a1 00 00 00 a1", "a1 00 00 00 00 a1", "20 00 00 00 00 20", "de 00 00 00 00 de", ]
 
 # # 元のバイナリ
@@ -80,6 +83,7 @@ COMB_N = 3
 # 発見済みのバイナリ
 $found = {}
 
+# 問題ないデータかどうか
 def valid?(o)
   # オルゴ即戦闘フラグ
   return false if !(o[0x0d].ord & 0x04 != 0)
