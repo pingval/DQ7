@@ -41,6 +41,9 @@ PS版 DRAGON QUEST VII 四精霊(カジノ技非使用)RTA攻略チャート by 
 - かくれみ(http://kakuremi.webcrow.jp/)
   モンスターとエンカウントの解析データ
 
+- Rou DQ日記(https://rou-2525.hatenablog.com/)
+  四精霊撃破RTA 16:09:13レポート
+
 ----
 
 * 書式
