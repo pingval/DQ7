@@ -141,7 +141,7 @@ PS2とPS one Books版が使用されている。前回の戦略からはリー�
 前回の戦略と比較すると、最後までベホマラーを習得しないためラスボス戦が不安定になっている。
 
 ### 2008/12/22
-[りお](https://twitter.com/rio_ccc)氏がPeerCast配信上で[32:23:11](http://listeners.reep.info/index.php?cmd=read&page=Peercast%20Record%2FDQ7)(※計測区間が少し短い)の記録を出す。  
+[りお](https://twitter.com/rio_ccc)氏がPeerCast配信上で[32:23:11](https://wikiwiki.jp/peca/Peercast%20Record/DQ7)(※計測区間が少し短い)の記録を出す。  
 恐らく、初めて映像配信上で出された記録である。戦略は[おてう](https://twitter.com/oteu_bakusou)氏と同じ。
 
 ## 2009年
@@ -219,7 +219,7 @@ Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_4
 ここから[くねお](https://twitter.com/kuneo_x)氏は14時間切りを目指して改めて戦略を練ることになる。
 
 ### 2010/08/28
-[ガーネット](https://ameblo.jp/purin-rta/)氏が[18:49:43](http://island.geocities.jp/garnet_thiru/dq7/dq7rta_184943.html)の記録を出す。妖精の剣カットの走りか。
+[ガーネット](https://ameblo.jp/purin-rta/)氏が[18:49:43](https://geolog.mydns.jp/island.geocities.jp/garnet_thiru/dq7/dq7rta_184943.html)の記録を出す。妖精の剣カットの走りか。
 
 ### 2010/09/15
 [くねお](https://twitter.com/kuneo_x)氏が[**14:31:22**](http://kuneo.blog52.fc2.com/blog-entry-1076.html)の記録を出し最速記録を更新。
@@ -240,7 +240,7 @@ Kimi氏がニコ生配信上で[17:45:07](http://kuneo.web.fc2.com/dq7/Kimi_17_4
 
 ### 2010/11/06
 [PS＆PS2 ドラゴンクエスト RTAリレー対決](http://com.nicovideo.jp/community/co519625)の第1回大会が開かれる。  
-第1回の主催は[くねお](https://twitter.com/kuneo_x)氏。現在も運営が入れ替わりつつ、PS版ドラゴンクエストRTAリレー対決に名を変えて定期的に大会が開かれている。DQ7に限らず、PS版のDQシリーズのRTAの普及に対する貢献は大きい。
+第1回の主催は[くねお](https://twitter.com/kuneo_x)氏。現在も運営が入れ替わりつつ、PS＆Switch版 ドラクエRTAリレー対決に名を変えて定期的に大会が開かれている。DQ7に限らず、PS版のDQシリーズのRTAの普及に対する貢献は大きい。
 
 ### 2010/11/22
 [steel](https://twitter.com/steel_dqrta)氏が[**14:43:14**](http://kuneo.web.fc2.com/dq7/steel_14_43_14.txt)の記録を出す。ルーラ習得稼ぎを行う場所の「炎の巨人前の炎の山」から「炎の巨人後の過去エンゴウフィールド」変更の初出か。  
@@ -369,7 +369,7 @@ PS版DQ7とほぼ同じエンジンのPS版DQ4でも縦移動は短縮になる�
 [ななしま](https://twitter.com/nanashi_ma)氏が[183回稼ぎ案](http://satinsilver.blog91.fc2.com/blog-entry-39.html)を公開。アイラに剣の舞を習得させる現在の形に近い。
 
 ### 2012/03/27
-[やまぴー](https://twitter.com/yaamaap25/with_replies/)氏が[13:49:34](http://space.geocities.jp/dqyamap/dq7_13h49m34s/main.html)の記録を出す。  
+[やまぴー](https://twitter.com/yaamaap25/with_replies/)氏が[13:49:34](https://geolog.mydns.jp/space.geocities.jp/dqyamap/dq7_13h49m34s/main.html)の記録を出す。  
 ラスボス戦でマリベルを使う戦略としては初の14時間切り。また、氏は縦移動を逸早く取り入れていた。
 
 ### 2012/06/14
@@ -436,7 +436,7 @@ PS2版DQ5のカジノ技のようなセーブ＆リセットは要しない。
 スペックの向上した現在のPCなら特に要らないか。
 
 ### 2013/08/27
-[さく](https://twitter.com/SK996633)氏が[カジノ技使用中断あり14:12:22](https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)の記録を出す。  
+[さく](https://twitter.com/SK996633)氏が[カジノ技使用中断あり14:12:22](http://web.archive.org/web/20211006204226/https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)の記録を出す。  
 「通常のチャートと全然違うものにしよう」という意欲的なコンセプトの戦略。以下が特徴。
 
 - ポーカーとラッキーパネル共に使用。コイン60万枚、ラッキーパネルで炎の爪と爆弾岩の心を回収する(実際のプレイではウォーハンマーも)。
@@ -453,7 +453,7 @@ PS2版DQ5のカジノ技のようなセーブ＆リセットは要しない。
 セーブ＆リセットを要せず、欲しいアイテムを見つけやすいため、[かくれみ氏のもの](http://kakuremi.webcrow.jp/data/dq7/dq7_lucky_panel.html)よりもRTAには適している。
 
 ### 2013/12/16
-[るるMk2](https://twitter.com/rurumk2)氏がニコ生配信上で[**カジノ技使用13:10:27**](http://ch.nicovideo.jp/rurumk2/blomaga/ar414520)の記録を出す。  
+[るるMk2](https://twitter.com/rurumk2)氏がニコ生配信上で[**カジノ技使用13:10:27**](https://web.archive.org/web/20211006224452/https://ch.nicovideo.jp/rurumk2/blomaga/ar414520)の記録を出す。  
 カジノ技はポーカーのみの40万枚。  
 カジノ技非使用戦略をベースに、コイン交換で強力装備(魔法の法衣・祈りの指輪・神秘の鎧・メタルキングヘルム等)と換金アイテムを味付けして、安定度を上げつつラスダン装備回収をカットした感じ。
 
@@ -499,16 +499,16 @@ Emily氏がSegmentedではなくSingle-Segment(≒RTA)で[**北米版16:27:57**]
 残念ながら氏のPCが壊れてしまったため動画は投稿されていない。
 
 ### 2014/05/11~12
-[るるMk2](https://twitter.com/rurumk2)氏が[刃のブーメラン1本案](http://ch.nicovideo.jp/rurumk2/blomaga/ar526025)を公開。  
+[るるMk2](https://twitter.com/rurumk2)氏が[刃のブーメラン1本案](https://web.archive.org/web/20211006214951/https://ch.nicovideo.jp/rurumk2/blomaga/ar526025)を公開。  
 また、[いちご](https://twitter.com/ichigo_rta)氏が[過去フォーリッシュブーメラン購入案](https://twitter.com/ichigo_RTA/status/465786751726804992)を公開。  
 ブーメランがにわかに注目を浴びる。
 
 <!-- なお、[くねお](https://twitter.com/kuneo_x)氏が2011/08/25の時点で軽く言及していた。 -->
 
 ### 2014/05/20
-spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_RTA/blomaga/ar535892)を公開(※DISC1終了まで)。  
+spice氏が[カジノ技使用攻略チャート](https://web.archive.org/web/20211006221757/https://ch.nicovideo.jp/spice_RTA/blomaga/ar535892)を公開(※DISC1終了まで)。  
 カジノ技はポーカー・ラッキーパネル使用のコイン40万枚。ラッキーパネルで回収するアイテムは、炎の爪・ウォーハンマー・爆弾岩の心・ドラゴスライムの心。  
-[さく氏の戦略](https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)との主な違いは、
+[さく氏の戦略](http://web.archive.org/web/20211006204226/https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)との主な違いは、
 
 - 熟練度稼ぎ17+93＝110回
 - よりRTAに適した[allgreen氏のラッキーパネル用カジノ技ツール](http://www1.axfc.net/u/3084215?key=7411)を使用
@@ -530,7 +530,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 実は過去フォロッドのフォロッド兵戦のように、負けてもストーリーが進むイベントであることが判明する。わざと負けたほうが速い上にデメリットもほぼない。
 
 ### 2014/09/08
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用13:07:22**](http://ch.nicovideo.jp/kettamachine/blomaga/ar619176)の記録を出し最速記録を更新。  
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用13:07:22**](https://ketta0503.livedoor.blog/archives/8685633.html)の記録を出し最速記録を更新。  
 過去フォーリッシュブーメラン購入が採用されている。  
 
 以下の戦略は現在に至るまで主流である。
@@ -603,7 +603,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 ストーリーを破壊しない技ということで、このバグの使用は許可される。
 
 関連:
-- [ＤＱ７　世界一高い塔3階における　すり抜けバグ:doranのブロマガ - ブロマガ](http://ch.nicovideo.jp/doran/blomaga/ar1020016)
+- [ＤＱ７　世界一高い塔3階における　すり抜けバグ:doranのブロマガ - ブロマガ](https://web.archive.org/web/20211006205128/https://ch.nicovideo.jp/doran/blomaga/ar1020016)
 - [PS版DQ7 世界一高い塔　3階壁抜けバグ - ニコニコ動画](https://www.nicovideo.jp/watch/sm32657544)
 
 <!--
@@ -612,7 +612,7 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 -->
 
 ### 2016/11/30
-[spice](https://twitter.com/spice_ta)氏がニコ生配信上で[**カジノ技非使用12:58:34**](http://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)の記録を出し最速記録を更新。
+[spice](https://twitter.com/spice_ta)氏がニコ生配信上で[**カジノ技非使用12:58:34**](https://web.archive.org/web/20211006113301/https://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)の記録を出し最速記録を更新。
 
 [筆者](https://twitter.com/pingval)の12:58:42との戦略の違いは主に以下の点:
 
@@ -630,15 +630,15 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 -->
 
 ### 2017/02/24
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:56:14**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1202297)の記録を出し最速記録を更新。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:56:14**](http://ketta0503.livedoor.blog/archives/8685646.html)の記録を出し最速記録を更新。
 
 ### 2017/02/28
-[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:54:55**](http://ch.nicovideo.jp/gagamilky/blomaga/ar1199024)の記録を出し最速記録を更新。
+[みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:54:55**](https://web.archive.org/web/20211006060311/https://ch.nicovideo.jp/gagamilky/blomaga/ar1199024)の記録を出し最速記録を更新。
 
 最速記録保持者の座を4日で奪われた[けった](https://twitter.com/ketta0503)氏は同日、[ドラゴンクエストⅦ 7日間ゲーム実況](http://live.nicovideo.jp/watch/lv289474784)に悲しみを背負って出演することになる。
 
 ### 2017/03/21
-[じゃっくそん](https://twitter.com/jackjasonb)氏が[TAS](https://www.nicovideo.jp/watch/sm30866047)を公開する。現在は炎の巨人撃破後まで投稿されている。
+[じゃっくそん](https://twitter.com/jackjasonb)氏が[TAS](https://www.nicovideo.jp/watch/sm30866047)を公開する。2022年8月現在、ガボ加入まで投稿されている。
 
 ### 2017/05/05
 [けった](https://twitter.com/ketta0503)氏が[RTA in Japan for #C4LANJP](https://rtain.jp/rtaij/rta-in-japan-for-c4lanjp/)にてDQ7を走り[12:57:19](https://rtain.jp/game-title/dq7/)の記録を出す。  
@@ -659,13 +659,13 @@ spice氏が[カジノ技使用攻略チャート](https://ch.nicovideo.jp/spice_
 - 世界ランキング3部門で1位
 
 ### 2018/04/05
-[あたまろ](https://twitter.com/at_glv)氏が[**カジノ技非使用12:53:04**](http://ch.nicovideo.jp/at_lhv/blomaga/ar1465934)の記録を出し最速記録を更新。詳細は不明。
+[あたまろ](https://twitter.com/at_glv)氏が[**カジノ技非使用12:53:04**(404)](http://ch.nicovideo.jp/at_lhv/blomaga/ar1465934)の記録を出し最速記録を更新。詳細は不明。
 
 ### 2018/04/11
-[奴隷先輩](https://twitter.com/drisnpi)氏がTwitch配信上で[**カジノ技非使用12:50:02**](http://ch.nicovideo.jp/dreisnpi/blomaga/ar1470602)の記録を出し最速記録を更新。
+[奴隷先輩](https://twitter.com/drisnpi)氏がTwitch配信上で[**カジノ技非使用12:50:02**(404)](http://ch.nicovideo.jp/dreisnpi/blomaga/ar1470602)の記録を出し最速記録を更新。
 
 ### 2018/05/01
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の記録を出し最速記録を更新。現行最速記録である。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ketta0503.livedoor.blog/archives/8685649.html)の記録を出し最速記録を更新。現行最速記録である。
 
 ## 2019年 - DQ7をぶっ壊す
 
@@ -737,7 +737,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 
 ### 2020/09/21
 [みるきぃ](https://twitter.com/gagaotarin)氏がTwitch配信上で[**カジノ技非使用12:38:48**](https://github.com/gagamilky-hub/doranana/blob/master/rta-20200921-12h38m48s.md)の記録を出し最速記録を更新。マシンマスター戦で鉄の斧ドロップ(ちなみに2日連続)があったり闘技場6連戦5戦目のドンホセ戦で全滅するなど浮き沈みの激しい冒険であった。  
-[けった](https://twitter.com/ketta0503)氏の[12:49:48](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)から2年4ヶ月ぶり11分の大幅更新で、とうとう12時間40分切り時代の幕が開けた。  
+[けった](https://twitter.com/ketta0503)氏の[12:49:48](http://ketta0503.livedoor.blog/archives/8685649.html)から2年4ヶ月ぶり11分の大幅更新で、とうとう12時間40分切り時代の幕が開けた。  
 
 - まだらくも糸購入をカットし、みかわしの服と刃のブーメラン2本を両立
 - あたまろスペシャルの導入
@@ -747,7 +747,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 辺りが特徴か。そのほか、[会話中](https://www.youtube.com/watch?v=DbLE8GmJroY)や[戦闘中](https://twitter.com/gagaotarin/status/1256860105028431872)の十字キーぐりぐりによってメッセージ送り速度を上げ、手の疲れとHP概算を代償にしてタイムを短縮している。なんて時代だ！
 
 ### 2020/12/26
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](https://ch.nicovideo.jp/kettamachine/blomaga/ar1978937)の記録を出し最速記録を更新。  
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:34:07**](http://ketta0503.livedoor.blog/archives/8685652.html)の記録を出し最速記録を更新。  
 [RTA in Japan for #C4LANJP](https://rtain.jp/game-title/dq7/)以来の満足な結果とのこと。  
 前最速記録保持者の[みるきぃ](https://twitter.com/gagaotarin)氏は[記録達成直後の筆者のインタビュー](https://rtagamers.com/rpg/psdq7-wr-123848/#toc8)に対し「前回は1年くらい持ったので、今回もそれくらいは持つんじゃないでしょうか。」と述べていたが、「彼次第かもしれません。」とも述べていたその「**彼**」の手によって約3ヶ月で破られるという結果になった。
 
@@ -898,17 +898,17 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
   - メ: 魔70(ルカニ・メラミ)
   - ア: 戦40→踊30(剣の舞)
 
-#### 2014/09/08 - [けった 13:07:22](http://ch.nicovideo.jp/kettamachine/blomaga/ar619176)
+#### 2014/09/08 - [けった 13:07:22](http://ketta0503.livedoor.blog/archives/8685633.html)
 
 メルビンをルカニ・メラミの魔法使いから百列舐めのリップスに変更。道中狩りは3回から6回に増やせる。  
-現行最速記録[12:49:48](http://ch.nicovideo.jp/kettamachine/blomaga/ar1512875)の熟練度稼ぎはこれ。
+現行最速記録[12:34:07](http://ketta0503.livedoor.blog/archives/8685652.html)の熟練度稼ぎもこれ。
 
 - 道中6回
   - 主: 戦6
 - アイラ加入後68回
   - メ: リップス68(百列舐め)
 
-#### 2016/11/30 - [spice 12:58:38](http://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)
+#### 2016/11/30 - [spice 12:58:38](https://web.archive.org/web/20211006113301/https://ch.nicovideo.jp/spice_RTA/blomaga/ar1149586)
 
 メルビンを船乗りで30戦させ体当たりを習得させる一工夫を加えている。どのみち熟練度稼ぎ後は船乗りに転職させるので、転職ロスはない。  
 道中狩りは6回から3回に減る。メルビンの体当たりは、過去レブレサックのフォレストガード戦や過去サンゴの洞窟の自殺ルーラに使う。
@@ -922,7 +922,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 
 Special Thanks to [spice](https://twitter.com/spice_ta)!
 
-### 108回 - 2013/08/27 - [さく 中断あり14:12:22](https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)
+### 108回 - 2013/08/27 - [さく 中断あり14:12:22](http://web.archive.org/web/20211006204226/https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)
 
 なんとダーマ解放後の熟練度稼ぎは行わず、主人公は剣の舞ではなくラッキーパネルで手に入れた炎の爪を使う。  
 カジノ技非使用の一般的な183回稼ぎ戦略と比較すると、メラミ・イオラ・ベホマラー・魔神斬りがない。  
@@ -934,9 +934,9 @@ Special Thanks to [spice](https://twitter.com/spice_ta)!
   - メ: 羊90→爆弾岩16(キアリー・寝る・口笛・ウールガード・スクルト)
   - ア: 踊35→戦55→盗17(剣の舞・突き飛ばし)
 
-### 110回 - 2014/05/20 - [spice カジノ有べホマラーカットチャート](https://ch.nicovideo.jp/spice_RTA/blomaga/ar535892)
+### 110回 - 2014/05/20 - [spice カジノ有べホマラーカットチャート](https://web.archive.org/web/20211006221757/https://ch.nicovideo.jp/spice_RTA/blomaga/ar535892)
 
-主人公の剣の舞習得タイミングは[さく氏の戦略](https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)と同じくアイラ加入後。  
+主人公の剣の舞習得タイミングは[さく氏の戦略](http://web.archive.org/web/20211006204226/https://ch.nicovideo.jp/nnsaku/blomaga/ar326805)と同じくアイラ加入後。  
 ドラゴスライムの心で40戦してメルビンにアストロンを習得させ、「アストロン+神秘の鎧」戦術でラスボス戦を耐え忍ぶ。
 
 - ダーマ解放後17回
