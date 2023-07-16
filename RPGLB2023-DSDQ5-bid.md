@@ -20,7 +20,7 @@
 
 Bidのタイトルは「Bonus Dragon Quest VII Run」であり、アニメティカ(英語タイトルAnime Maker)の名は出ていません。ですが自分は5月下旬に走者のHighSpiritsさんからアニメティカDQ7の資料がないか尋ねられたので、走るのはアニメティカDQ7で間違いないと思われます。
 
-アニメティカDQ7については[もかさんの記事](https://news.denfaminicogamer.jp/gamenewsplus/200422c)を参考にしてください。この文書はその補足です。
+アニメティカDQ7のRTAの詳細は[もかさんの記事](https://news.denfaminicogamer.jp/gamenewsplus/200422c)を参考にしてください。この文書はその補足です。
 
 ## 言語とルートについて
 
