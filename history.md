@@ -787,7 +787,7 @@ RTAの中でも特に勝率の低いイノゴン戦における戦力や戦術�
 ## 2025年
 
 ### 2025/03/30
-[れあちぃ](https://x.com/rarecheesenico)氏がYouTube及びTwitch Live配信上で[**カジノ技非使用12:29:29**](https://www.youtube.com/watch?v=rzSVEtG2pOI)の記録を出し最速記録を4年ぶりに更新。  
+[れあちぃ](https://x.com/rarecheesenico)氏がYouTube Live及びTwitch配信上で[**カジノ技非使用12:29:29**](https://www.youtube.com/watch?v=rzSVEtG2pOI)の記録を出し最速記録を4年ぶりに更新。  
 DISC 1終了時点で10時間を切るという驚異的なペースであった。
 
 ----
@@ -1071,4 +1071,3 @@ Special Thanks to [spice](https://twitter.com/spice_ta)!
   - ガ: 羊105→ホイミスライム85→船75→エビルタートル85(口笛・ベホマラー・キアリク・スクルト・バイキルト)
   - メ: プラチナキング350(アストロン・体当たり・ザオリク・ベホマズン・ビッグバン・★8完全耐性)
   - ア: 船75→踊30→戦245(体当たり・キアリク・剣の舞・魔神斬り)
-s
