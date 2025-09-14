@@ -551,7 +551,7 @@ spice氏が[カジノ技使用攻略チャート](https://web.archive.org/web/20
 ### 2014/11/30
 [筆者](https://twitter.com/pingval)がPeerCast配信上で[**カジノ技非使用12:58:42**](http://pingval.g1.xrea.com/dq7/rta-12h58m42s/)の記録を出し最速記録を更新＆初13時間切り達成。
 
-また同日、[いちご](https://twitter.com/ichigo_rta)氏がニコ生配信上で[**カジノ技使用12:56:08**](https://twitter.com/ichigo_RTA/status/538901595983855616)の記録を出し最速記録を更新＆初13時間切り達成。詳細は不明。現行最速記録である。
+また同日、[いちご](https://twitter.com/ichigo_rta)氏がニコ生配信上で[**カジノ技使用12:56:08**](https://twitter.com/ichigo_RTA/status/538901595983855616)の記録を出し最速記録を更新＆初13時間切り達成。詳細は不明。
 
 ### 2014/12/06
 [Highspirits](https://twitter.com/highspirits_1)氏が[北米版17:18:06](https://forum.speeddemosarchive.com/post/dragon_warrior_vii_ps1_52.html#dragon_warrior_vii_ps1_52)の記録を出す。氏は[筆者](https://twitter.com/pingval)のプレイを参考にした。
@@ -593,7 +593,7 @@ spice氏が[カジノ技使用攻略チャート](https://web.archive.org/web/20
 
 ## 2016年
 ### 2016/01/01
-[筆者](https://twitter.com/pingval)がPeerCast配信上で[**四精霊撃破(カジノ技非使用)16:14:03**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h14m03s/)の記録を出し最速記録を更新。現行最速記録である。  
+[筆者](https://twitter.com/pingval)がPeerCast配信上で[**四精霊撃破(カジノ技非使用)16:14:03**](http://pingval.g1.xrea.com/dq7/rta-4spirits-16h14m03s/)の記録を出し最速記録を更新。
 16:22:00からの変更点はフエーゴの兜カットくらい。
 
 ### 2016/01/25
@@ -669,7 +669,7 @@ spice氏が[カジノ技使用攻略チャート](https://web.archive.org/web/20
 [奴隷先輩](https://twitter.com/drisnpi)氏がTwitch配信上で[**カジノ技非使用12:50:02**(404)](http://ch.nicovideo.jp/dreisnpi/blomaga/ar1470602)の記録を出し最速記録を更新。
 
 ### 2018/05/01
-[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ketta0503.livedoor.blog/archives/8685649.html)の記録を出し最速記録を更新。現行最速記録である。
+[けった](https://twitter.com/ketta0503)氏がニコ生配信上で[**カジノ技非使用12:49:48**](http://ketta0503.livedoor.blog/archives/8685649.html)の記録を出し最速記録を更新。
 
 ## 2019年 - DQ7をぶっ壊す
 
@@ -940,7 +940,7 @@ DISC 1終了時点で10時間を切るという驚異的なペースであった
 #### 2014/09/08 - [けった 13:07:22](http://ketta0503.livedoor.blog/archives/8685633.html)
 
 メルビンをルカニ・メラミの魔法使いから百列舐めのリップスに変更。道中狩りは3回から6回に増やせる。  
-現行最速記録[12:34:07](http://ketta0503.livedoor.blog/archives/8685652.html)の熟練度稼ぎもこれ。
+[12:34:07](http://ketta0503.livedoor.blog/archives/8685652.html)の熟練度稼ぎもこれ。
 
 - 道中6回
   - 主: 戦6
